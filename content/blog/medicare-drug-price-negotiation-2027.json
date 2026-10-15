@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-08",
+  "slug": "blog/medicare-drug-price-negotiation-2027",
+  "type": "post",
+  "title": "Medicare Drug Price Negotiation 2027: Ozempic and More",
+  "description": "Medicare’s second round of negotiated drug prices, covering 15 drugs including Ozempic and Wegovy, takes effect January 1, 2027. What it means for your copays.",
+  "h1": "Medicare’s 2027 negotiated drug prices, explained",
+  "eyebrow": "News · Prescription drugs",
+  "intro": "On January 1, 2027, Medicare’s second set of negotiated drug prices takes effect, covering 15 drugs including semaglutide (Ozempic, Wegovy and Rybelsus). Here is what the program does, and what it does not do, for your pharmacy bill.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628771065518-0d82f1938462",
+    "alt": "Colorful pills spilling from an orange prescription bottle",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "keywords": [
+    "medicare drug price negotiation",
+    "negotiated drug prices 2027",
+    "ozempic medicare price",
+    "wegovy medicare",
+    "inflation reduction act drugs"
+  ],
+  "cardText": "Medicare’s second round of negotiated drug prices, covering 15 drugs including Ozempic and Wegovy, takes effect January 1, 2027.",
+  "sections": [
+    {
+      "h2": "How negotiation works",
+      "html": "<p>The Inflation Reduction Act lets Medicare negotiate prices directly with drugmakers for certain high-spend drugs without generic competition. The first 10 negotiated prices took effect on January 1, 2026. CMS announced the second round, for 15 more drugs, in November 2025, with prices effective in 2027.</p>"
+    },
+    {
+      "h2": "Semaglutide and the second round",
+      "html": "<p>The 2027 list includes semaglutide, sold as Ozempic, Wegovy and Rybelsus. CMS published a negotiated “maximum fair price” for these products that is well below their list price. Separately, the administration announced pricing agreements for GLP-1 drugs, and how the two interact is still being worked out.</p>"
+    },
+    {
+      "h2": "What it means for you",
+      "html": "<ul><li>The negotiated price is what Medicare pays, <strong>not your copay</strong>. Your cost still depends on your Part D plan’s formulary and cost-sharing.</li><li>Your total drug costs are capped by the Part D out-of-pocket limit; see <a href=\"/blog/part-d-out-of-pocket-cap/\">the Part D cap</a>.</li><li>Check your 2027 plan’s formulary during <a href=\"/blog/medicare-open-enrollment-2027/\">open enrollment</a>.</li><li>Medicare coverage of drugs for weight loss alone is limited; ask your plan.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my Ozempic copay drop in 2027?",
+      "a": "Not necessarily. The negotiated price is what Medicare pays; your copay depends on your Part D plan. Check the plan’s 2027 formulary."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: Medicare Drug Price Negotiation Program",
+      "url": "https://www.cms.gov/inflation-reduction-act-and-medicare/medicare-drug-price-negotiation"
+    },
+    {
+      "title": "CMS fact sheet: negotiated prices for 2027",
+      "url": "https://www.cms.gov/files/document/fact-sheet-negotiated-prices-ipay-2027.pdf"
+    }
+  ],
+  "related": [
+    "blog/part-d-out-of-pocket-cap",
+    "blog/compounded-glp1-fda",
+    "blog/how-to-choose-a-plastic-surgeon",
+    "private-healthcare"
+  ],
+  "relatedTitle": "Keep reading"
+}

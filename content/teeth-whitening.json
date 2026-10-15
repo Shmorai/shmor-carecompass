@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "teeth-whitening",
+  "title": "Teeth Whitening & Veneers: Options, Safety & Costs",
+  "description": "Professional whitening, take-home trays, strips and veneers compared: how they work, safety, sensitivity and why insurance rarely pays for cosmetic dentistry.",
+  "eyebrow": "Cosmetic dentistry",
+  "h1": "Teeth whitening and veneers: a brighter smile, safely",
+  "intro": "From in-office whitening to porcelain veneers, here is how cosmetic dentistry options compare and what to ask before you choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1677026010083-78ec7f1b84ed",
+    "alt": "Close-up of a woman smiling with white teeth",
+    "credit": "Kamal Hoseinianzade",
+    "creditUrl": "https://unsplash.com/@teravis_sk"
+  },
+  "sections": [
+    {
+      "h2": "Your whitening options",
+      "html": "<table><thead><tr><th>Option</th><th>How it works</th><th>Good to know</th></tr></thead><tbody><tr><td>In-office whitening</td><td>Higher-strength gel applied by a dental professional</td><td>Fastest results; gums are protected</td></tr><tr><td>Custom take-home trays</td><td>Dentist-made trays with lower-strength gel</td><td>Gradual results; trays can be reused for touch-ups</td></tr><tr><td>Over-the-counter strips</td><td>Pre-loaded strips worn daily</td><td>Lower cost; less even results</td></tr></tbody></table><p>Whitening does not change the color of crowns, veneers or fillings. Sensitivity is a common, usually temporary, side effect.</p>"
+    },
+    {
+      "h2": "Veneers and bonding",
+      "html": "<p>Veneers are thin shells of porcelain or composite bonded to the front of teeth to change their color, shape or size. Porcelain veneers usually require removing some enamel, so the decision is generally irreversible. Composite bonding is a less invasive, lower-cost alternative that may need more upkeep.</p>"
+    },
+    {
+      "h2": "Insurance and payment",
+      "html": "<p>Cosmetic dentistry is rarely covered by insurance and whitening is generally not HSA/FSA eligible. Ask for a free cosmetic consultation and a written estimate. See <a href=\"/free-consultations/\">free consultations</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is teeth whitening safe?",
+      "a": "Whitening under the supervision of a dentist is generally considered safe. Have a check-up first, because cavities or gum problems should be treated before whitening."
+    },
+    {
+      "q": "Are veneers covered by insurance?",
+      "a": "Usually not when they are purely cosmetic. If a tooth is damaged, a crown may be covered instead."
+    }
+  ],
+  "related": [
+    "clear-aligners",
+    "free-consultations",
+    "dentists",
+    "blog/dental-tourism-risks"
+  ],
+  "keywords": [
+    "teeth whitening",
+    "professional teeth whitening",
+    "veneers",
+    "porcelain veneers",
+    "composite bonding",
+    "cosmetic dentist",
+    "smile makeover"
+  ],
+  "cardText": "In-office whitening, trays, strips and veneers compared."
+}

@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-28",
+  "slug": "blog/urgent-care-vs-er",
+  "type": "post",
+  "title": "Urgent Care vs the ER: Where Should You Go?",
+  "description": "When to choose urgent care, the emergency room, telehealth or your regular doctor, what each typically costs you, and how your insurance treats each one.",
+  "h1": "Urgent care vs the ER: where should you go?",
+  "eyebrow": "Guide · Getting care",
+  "intro": "Choosing the right place for care can save you hours and a lot of money, but in a real emergency, never delay. Here is a simple guide.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758404958502-44f156617bae",
+    "alt": "Illuminated red emergency sign above a hospital entrance",
+    "credit": "Aconitum",
+    "creditUrl": "https://unsplash.com/@aconitum"
+  },
+  "keywords": [
+    "urgent care vs er",
+    "urgent care",
+    "emergency room",
+    "er or urgent care",
+    "walk in clinic"
+  ],
+  "cardText": "When to choose urgent care, the emergency room, telehealth or your regular doctor, what each typically costs you, and how your insurance treats each one.",
+  "sections": [
+    {
+      "h2": "Call 911 or go to the ER for",
+      "html": "<ul><li>chest pain, signs of stroke (face drooping, arm weakness, speech difficulty), or trouble breathing;</li><li>severe bleeding, major injuries or head injuries;</li><li>sudden severe pain, confusion or loss of consciousness;</li><li>dental or facial swelling that affects breathing or swallowing.</li></ul>"
+    },
+    {
+      "h2": "Urgent care is usually fine for",
+      "html": "<ul><li>minor cuts, sprains and simple fractures;</li><li>colds, flu, sore throats, ear infections and urinary tract infections;</li><li>mild allergic reactions and rashes.</li></ul><p>Urgent care can help with dental pain but usually cannot treat teeth; see <a href=\"/emergency-dentist/\">emergency dentist</a>.</p>"
+    },
+    {
+      "h2": "Costs and insurance",
+      "html": "<p>ER visits typically cost patients much more than urgent care or primary care visits, but federal law protects you from balance billing for emergency care in most cases (see <a href=\"/blog/no-surprises-act-guide/\">the No Surprises Act</a>). Check whether nearby urgent care centers are in your network, and consider telehealth for minor problems.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an ER turn me away if I cannot pay?",
+      "a": "No. Under federal law (EMTALA), hospitals with emergency departments that take Medicare must screen and stabilize anyone with an emergency medical condition, regardless of ability to pay."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: EMTALA",
+      "url": "https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act"
+    },
+    {
+      "title": "CMS: No Surprises",
+      "url": "https://www.cms.gov/nosurprises"
+    }
+  ],
+  "related": [
+    "blog/no-surprises-act-guide",
+    "blog/medical-debt-and-credit-reports",
+    "blog/hospital-price-transparency",
+    "emergency-dentist"
+  ],
+  "relatedTitle": "Keep reading"
+}

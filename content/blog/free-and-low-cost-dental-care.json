@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-24",
+  "slug": "blog/free-and-low-cost-dental-care",
+  "type": "post",
+  "title": "Free and Low-Cost Dental Care in the US: Where to Look",
+  "description": "No dental insurance? Where to find free and low-cost dental care in the US: community health centers, dental schools, Medicaid, free clinic events and more.",
+  "h1": "Free and low-cost dental care: where to look",
+  "eyebrow": "How-to · Dental",
+  "intro": "Millions of Americans have no dental coverage. If cost is stopping you from seeing a dentist, these options can help.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1737215398603-2ef701df8036",
+    "alt": "Woman having her teeth checked by a dentist",
+    "credit": "Mariia Belinska",
+    "creditUrl": "https://unsplash.com/@mashrooms21"
+  },
+  "keywords": [
+    "free dental care",
+    "low cost dental care",
+    "cheap dentist",
+    "dental school clinic",
+    "sliding scale dentist",
+    "dental care without insurance"
+  ],
+  "cardText": "No dental insurance? Where to find free and low-cost dental care in the US: community health centers, dental schools, Medicaid, free clinic events and more.",
+  "sections": [
+    {
+      "h2": "Where to find affordable care",
+      "html": "<ul><li><strong>Community health centers:</strong> federally funded health centers offer dental care with sliding-scale fees based on income. Search at <a href=\"https://findahealthcenter.hrsa.gov/\" rel=\"nofollow noopener\" target=\"_blank\">FindAHealthCenter.hrsa.gov</a>.</li><li><strong>Dental schools:</strong> students treat patients under supervision, often at reduced cost. Appointments can take longer.</li><li><strong>Dental hygiene schools:</strong> low-cost cleanings.</li><li><strong>Medicaid and CHIP:</strong> children’s dental is covered; adult coverage varies by state.</li><li><strong>Free clinic events:</strong> charitable organizations and state dental associations run free dental days.</li><li><strong>Clinical trials:</strong> sometimes offer treatment at no cost.</li></ul>"
+    },
+    {
+      "h2": "Tips to reduce costs",
+      "html": "<ul><li>Ask for the practice’s cash price and any in-house membership plan.</li><li>Ask for a <a href=\"/blog/no-surprises-act-guide/\">Good Faith Estimate</a> before scheduled treatment.</li><li>Prioritize: treat pain and infection first, then plan the rest.</li><li>Consider a <a href=\"/blog/dental-savings-plans-vs-insurance/\">dental savings plan</a>.</li></ul>"
+    },
+    {
+      "h2": "When it cannot wait",
+      "html": "<p>Swelling, fever or spreading infection needs urgent care. See our <a href=\"/emergency-dentist/\">emergency dentist guide</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get free dental care without insurance?",
+      "a": "Sometimes. Free clinic events, some community health centers and charitable programs offer free care, and dental schools offer reduced-cost care."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HRSA: Find a health center",
+      "url": "https://findahealthcenter.hrsa.gov/"
+    },
+    {
+      "title": "NIDCR: Finding low-cost dental care",
+      "url": "https://www.nidcr.nih.gov/health-info/finding-dental-care"
+    },
+    {
+      "title": "InsureKidsNow.gov",
+      "url": "https://www.insurekidsnow.gov/"
+    }
+  ],
+  "related": [
+    "blog/does-medicare-cover-dental",
+    "blog/how-dental-insurance-works",
+    "blog/dental-savings-plans-vs-insurance",
+    "dentists"
+  ],
+  "relatedTitle": "Keep reading"
+}

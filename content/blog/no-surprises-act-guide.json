@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-01",
+  "slug": "blog/no-surprises-act-guide",
+  "type": "post",
+  "title": "No Surprises Act: Your Protection From Surprise Bills",
+  "description": "How the No Surprises Act stops surprise out-of-network bills for emergencies and hospital care, and how uninsured patients get a Good Faith Estimate.",
+  "h1": "The No Surprises Act: protection from surprise medical bills",
+  "eyebrow": "Explainer · Medical bills",
+  "intro": "Since 2022, the federal No Surprises Act has protected many patients from unexpected out-of-network bills. Here is what it covers, and what to do if you get a bill you think breaks the rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d",
+    "alt": "Hospital lobby reception desk with signage",
+    "credit": "Martha Dominguez de Gouveia",
+    "creditUrl": "https://unsplash.com/@m_dominguez_marketing"
+  },
+  "keywords": [
+    "no surprises act",
+    "surprise medical bill",
+    "balance billing",
+    "good faith estimate",
+    "out of network bill"
+  ],
+  "cardText": "How the No Surprises Act stops surprise out-of-network bills for emergencies and hospital care, and how uninsured patients get a Good Faith Estimate.",
+  "sections": [
+    {
+      "h2": "What it covers",
+      "html": "<ul><li><strong>Emergency care:</strong> you generally cannot be balance billed for emergency services, even out-of-network, and you pay in-network cost-sharing.</li><li><strong>Non-emergency care at in-network facilities:</strong> out-of-network providers such as anesthesiologists or radiologists generally cannot balance bill you without your advance written consent, and some cannot ask for it at all.</li><li><strong>Air ambulances:</strong> out-of-network air ambulance services are covered.</li></ul><p>Ground ambulances are not covered by the federal law, though some states have their own protections.</p>"
+    },
+    {
+      "h2": "Good Faith Estimates for uninsured and self-pay patients",
+      "html": "<p>If you do not have insurance or choose not to use it, providers must give you a Good Faith Estimate for scheduled care when you book (or on request). If your bill is at least $400 more than the estimate from a provider, you can use the federal patient-provider dispute process. This is useful for <a href=\"/free-consultations/\">planned dental and cosmetic treatment</a>.</p>"
+    },
+    {
+      "h2": "If you get a surprise bill",
+      "html": "<ol><li>Do not pay right away. Compare the bill with your Explanation of Benefits.</li><li>Call the provider and your insurer and mention the No Surprises Act.</li><li>Contact the No Surprises Help Desk (1-800-985-3059) or submit a complaint at CMS.gov.</li></ol><p>See also <a href=\"/blog/medical-debt-and-credit-reports/\">medical debt and your credit report</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the No Surprises Act apply to dental care?",
+      "a": "The surprise billing protections focus on health plans and facilities. The Good Faith Estimate rules for uninsured or self-pay patients can apply to many providers, including some dental services."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: No Surprises",
+      "url": "https://www.cms.gov/nosurprises"
+    },
+    {
+      "title": "CMS: Good Faith Estimate",
+      "url": "https://www.cms.gov/medical-bill-rights/help/guides/good-faith-estimate"
+    }
+  ],
+  "related": [
+    "blog/medical-debt-and-credit-reports",
+    "blog/urgent-care-vs-er",
+    "blog/hospital-price-transparency",
+    "free-consultations"
+  ],
+  "relatedTitle": "Keep reading"
+}

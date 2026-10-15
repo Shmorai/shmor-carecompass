@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-15",
+  "slug": "free-consultations",
+  "nav": "Free consults",
+  "navOrder": 1,
+  "title": "Free Dental & Cosmetic Consultations: What to Expect",
+  "description": "How free consultations work at US dentists, orthodontists, cosmetic surgeons and med spas: what is included, what costs extra and what to ask.",
+  "eyebrow": "Free consultations",
+  "h1": "Free consultations: how to find one and get the most from it",
+  "intro": "A free consultation lets you meet a provider, understand your options and get a written plan before spending a cent. Here is how they work, and how to avoid surprise charges.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684",
+    "alt": "Doctor showing a patient information on a tablet during a consultation",
+    "credit": "Nappy",
+    "creditUrl": "https://unsplash.com/@nappystudio"
+  },
+  "highlights": [
+    {
+      "icon": "🦷",
+      "title": "Dental & orthodontic",
+      "text": "Many orthodontists and implant practices offer a free first visit to assess suitability."
+    },
+    {
+      "icon": "✨",
+      "title": "Cosmetic surgery",
+      "text": "Some board-certified plastic surgeons offer free consults; others charge a fee credited to surgery."
+    },
+    {
+      "icon": "💉",
+      "title": "Med spas",
+      "text": "Injectors and aesthetic clinics commonly offer a free assessment and treatment plan."
+    },
+    {
+      "icon": "🩺",
+      "title": "Private clinics",
+      "text": "Concierge and direct primary care practices often offer a free meet-the-doctor visit."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a free consultation usually includes",
+      "html": "<p>A free consultation is typically a first meeting with the provider or a treatment coordinator. You can expect:</p><ul><li>a conversation about your goals, health history and medications;</li><li>a visual examination or assessment;</li><li>an explanation of the treatment options, risks and recovery;</li><li>a written treatment plan with an estimated price and payment options.</li></ul><p>What it usually <strong>does not</strong> include: diagnostic imaging (X-rays, CBCT 3D scans), lab work or a full clinical exam. These are often billed separately, and may or may not be covered by your <a href=\"/insurance/\">insurance</a>.</p>"
+    },
+    {
+      "h2": "Where to find free consultations",
+      "html": "<ul><li><strong>Orthodontists</strong> for <a href=\"/clear-aligners/\">braces and clear aligners</a> commonly offer a free first visit.</li><li><strong>Implant and cosmetic dentists</strong> for <a href=\"/dental-implants/\">implants</a>, veneers and <a href=\"/teeth-whitening/\">whitening</a>.</li><li><strong>Plastic surgeons</strong> for <a href=\"/cosmetic-surgery/\">cosmetic surgery</a>. Check board certification first.</li><li><strong>Med spas</strong> for <a href=\"/botox-fillers/\">Botox and fillers</a>.</li><li><strong>Direct primary care and concierge practices</strong> (see <a href=\"/private-healthcare/\">private healthcare</a>).</li></ul><p>Look for “free consultation” on the practice website, or simply call and ask. Many practices offer virtual consultations too.</p>"
+    },
+    {
+      "h2": "Questions to ask before you book",
+      "html": "<ol><li>Is the consultation completely free, or is there a fee that is credited towards treatment?</li><li>Are X-rays or scans included? If not, what do they cost?</li><li>Who will I see: the dentist or surgeon, or a coordinator?</li><li>Are you in-network with my plan? (Ask for the plan name, not just the insurer.)</li><li>Will I receive a written treatment plan and estimate?</li></ol><p>Read our full <a href=\"/blog/free-consultation-questions/\">free consultation checklist</a>.</p>"
+    },
+    {
+      "h2": "Your right to a Good Faith Estimate",
+      "html": "<p>If you are uninsured or paying without insurance, federal rules under the No Surprises Act generally entitle you to a <strong>Good Faith Estimate</strong> of expected charges for scheduled care. If the final bill is substantially higher than the estimate, you may be able to dispute it. See our guide to <a href=\"/blog/no-surprises-act-guide/\">surprise billing protections</a> and the official information at <a href=\"https://www.cms.gov/nosurprises\" rel=\"nofollow noopener\" target=\"_blank\">CMS.gov/nosurprises</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do practices offer free consultations?",
+      "a": "For elective and cosmetic treatment, a free first visit lets patients compare providers without risk. It is a normal and legitimate practice, but you should never feel pressured to book treatment on the day."
+    },
+    {
+      "q": "Is a free consultation the same as a check-up?",
+      "a": "No. A consultation discusses a specific treatment. A dental check-up or medical exam is a clinical service that is usually billed, though preventive care is often covered by insurance."
+    },
+    {
+      "q": "Can I get a second opinion?",
+      "a": "Yes, and for major treatment such as implants or surgery it is a good idea. Free consultations make second opinions easier."
+    }
+  ],
+  "related": [
+    "insurance",
+    "blog/free-consultation-questions",
+    "blog/how-to-choose-a-plastic-surgeon",
+    "cosmetic-surgery"
+  ],
+  "keywords": [
+    "free consultation",
+    "free dental consultation",
+    "free orthodontic consultation",
+    "free invisalign consultation",
+    "free plastic surgery consultation",
+    "free botox consultation",
+    "good faith estimate"
+  ],
+  "cardText": "What free consultations include, what costs extra and the questions to ask."
+}

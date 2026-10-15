@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "private-healthcare",
+  "nav": "Private care",
+  "navOrder": 5,
+  "title": "Private Healthcare in the US: Concierge & DPC Explained",
+  "description": "Concierge medicine, direct primary care and cash-pay clinics explained: how memberships work and how they fit with your insurance and HSA.",
+  "eyebrow": "Private & concierge care",
+  "h1": "Private healthcare: concierge medicine and direct primary care",
+  "intro": "Want longer appointments, same-day access or simple cash prices? Here is how private care models work in the US and how they fit alongside your insurance.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7",
+    "alt": "Doctor in a white coat holding a red stethoscope",
+    "credit": "Online Marketing",
+    "creditUrl": "https://unsplash.com/@impulsq"
+  },
+  "sections": [
+    {
+      "h2": "Concierge medicine",
+      "html": "<p>Concierge practices charge an annual or monthly retainer for enhanced access: smaller patient panels, longer visits and direct contact with your doctor. Many still bill your insurance for visits, so you pay the membership on top of normal coverage.</p>"
+    },
+    {
+      "h2": "Direct primary care (DPC)",
+      "html": "<p>Direct primary care practices usually charge a flat monthly membership that covers most primary care services and do not bill insurance for them. Since 2026, federal tax changes allow people in qualifying DPC arrangements to contribute to an HSA and use HSA funds for the fees, within limits. See <a href=\"/blog/hsa-changes-2026-2027/\">HSA changes for 2026 and 2027</a>.</p><p class=\"note\">DPC is not insurance. You still need coverage for hospital care, specialists and emergencies.</p>"
+    },
+    {
+      "h2": "Cash-pay and price-transparent clinics",
+      "html": "<p>Some surgery centers, imaging centers and labs publish cash prices. Hospitals must also publish standard charges under federal price transparency rules. See <a href=\"/blog/hospital-price-transparency/\">how to use hospital price transparency</a>.</p>"
+    },
+    {
+      "h2": "Telehealth",
+      "html": "<p>Virtual visits are a convenient option for many conditions. Medicare’s telehealth flexibilities have been extended, and most private plans cover telehealth. Read <a href=\"/blog/medicare-telehealth-2027/\">the latest on Medicare telehealth</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is concierge medicine worth it?",
+      "a": "It depends on how often you need care and how much you value access. Compare the membership fee with what your insurance already covers, and ask what is included."
+    },
+    {
+      "q": "Can I see a concierge doctor if I have Medicare?",
+      "a": "Many concierge practices accept Medicare patients, but the membership fee must be for services Medicare does not cover. Ask the practice to explain exactly what the fee includes."
+    }
+  ],
+  "related": [
+    "blog/hsa-changes-2026-2027",
+    "blog/medicare-telehealth-2027",
+    "blog/hospital-price-transparency",
+    "insurance"
+  ],
+  "keywords": [
+    "private healthcare",
+    "private doctor",
+    "concierge medicine",
+    "concierge doctor",
+    "direct primary care",
+    "dpc",
+    "cash pay clinic",
+    "private clinic",
+    "membership medicine"
+  ],
+  "cardText": "Concierge medicine, direct primary care and cash-pay clinics explained."
+}

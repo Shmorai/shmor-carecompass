@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Health news",
+  "navOrder": 6,
+  "title": "US Healthcare News & Dental Blog | CareCompass",
+  "description": "US healthcare news and explainers: Medicare, Medicaid, ACA open enrollment, drug prices, dental coverage and cosmetic care, checked against official sources.",
+  "eyebrow": "News · Explainers · How-tos",
+  "h1": "US healthcare news, explained",
+  "intro": "What is changing in American healthcare and what it means for you, from Medicare and Marketplace plans to dental coverage and cosmetic care. Every post is checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+    "alt": "Black and silver stethoscope on a white surface",
+    "credit": "Hush Naidoo Jade Photography",
+    "creditUrl": "https://unsplash.com/@hush52"
+  },
+  "search": false,
+  "listTitle": "All posts",
+  "keywords": [
+    "healthcare news",
+    "us healthcare news",
+    "medicare news",
+    "dental news",
+    "health insurance news"
+  ],
+  "cardText": "Medicare, Medicaid, ACA, drug prices, dental coverage and cosmetic care news."
+}

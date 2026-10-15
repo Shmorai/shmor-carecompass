@@ -1,15 +1,256 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "CareCompass: Find US dentists, cosmetic surgeons and private",
-  "description": "Find US dentists, cosmetic surgeons and private clinics offering free consultations, with every insurance plan explained. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "CareCompass",
-  "intro": "Find US dentists, cosmetic surgeons and private clinics offering free consultations, with every insurance plan explained.",
-  "related": [],
+  "title": "CareCompass: Free Dental & Cosmetic Consultations, US",
+  "description": "Find US dentists, cosmetic surgeons and private clinics offering free consultations. Every insurance plan explained, plus US healthcare news.",
+  "eyebrow": "Dental · Cosmetic · Private care · USA",
+  "h1": "Find your way to better care, starting with a free consultation",
+  "intro": "CareCompass helps you find dentists, cosmetic surgeons, med spas and private clinics across the US that offer free consultations, then explains exactly how your insurance works, whatever plan you have.",
+  "heroHtml": "<ul class=\"cc-badges\"><li>Free consultations</li><li>Every insurance plan explained</li><li class=\"rose\">No sign-up, no fees</li></ul>",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1629909613654-28e377c37b09",
+    "alt": "Modern dental treatment room with a patient chair and equipment",
+    "credit": "Benyamin Bohlouli",
+    "creditUrl": "https://unsplash.com/@benyamin_bohlouli"
+  },
+  "chips": [
+    {
+      "label": "Free dental consultation",
+      "slug": "free-consultations"
+    },
+    {
+      "label": "Dental implants",
+      "slug": "dental-implants"
+    },
+    {
+      "label": "Invisalign & braces",
+      "slug": "clear-aligners"
+    },
+    {
+      "label": "Does Medicare cover dental?",
+      "slug": "blog/does-medicare-cover-dental"
+    },
+    {
+      "label": "Botox & fillers",
+      "slug": "botox-fillers"
+    }
+  ],
+  "latestPosts": 6,
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Free consultations",
+          "text": "how to find and book them"
+        },
+        {
+          "icon": "shield",
+          "title": "All insurance types",
+          "text": "PPO, HMO, Medicare, Medicaid & more"
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Dental to cosmetic",
+          "text": "one place for every kind of care"
+        },
+        {
+          "icon": "check",
+          "title": "Independent",
+          "text": "free to use, checked against official sources"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "Explore care",
+      "intro": "Start with the treatment you are thinking about. Every guide covers costs to ask about, insurance, and how to get a free consultation.",
+      "items": [
+        {
+          "slug": "dentists",
+          "badge": "Most searched",
+          "title": "Dental care",
+          "text": "Check-ups, fillings, crowns and finding a dentist who takes your plan."
+        },
+        {
+          "slug": "dental-implants",
+          "title": "Dental implants"
+        },
+        {
+          "slug": "clear-aligners",
+          "title": "Invisalign & braces"
+        },
+        {
+          "slug": "cosmetic-surgery",
+          "badge": "Free consults",
+          "title": "Cosmetic surgery"
+        },
+        {
+          "slug": "teeth-whitening",
+          "title": "Teeth whitening"
+        },
+        {
+          "slug": "botox-fillers",
+          "title": "Botox & fillers"
+        },
+        {
+          "slug": "private-healthcare",
+          "title": "Private & concierge care"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Free consultations: what is usually on offer",
+      "intro": "Many US practices offer a free first consultation for elective and cosmetic treatment. What it includes varies, so always ask before you book.",
+      "more": {
+        "slug": "free-consultations",
+        "title": "How free consultations work"
+      },
+      "items": [
+        {
+          "slug": "clear-aligners",
+          "icon": "smartphone",
+          "badge": "Often free",
+          "title": "Orthodontic consults",
+          "text": "Many orthodontists offer a free first visit to check if braces or aligners suit you."
+        },
+        {
+          "slug": "dental-implants",
+          "icon": "check",
+          "badge": "Often free",
+          "title": "Implant consults",
+          "text": "Some implant practices include the first consult; scans and X-rays may be extra."
+        },
+        {
+          "slug": "cosmetic-surgery",
+          "icon": "user",
+          "badge": "Varies",
+          "title": "Cosmetic surgery consults",
+          "text": "Some surgeons charge a fee that is credited towards surgery; others are free."
+        },
+        {
+          "slug": "botox-fillers",
+          "icon": "droplet",
+          "badge": "Often free",
+          "title": "Med spa assessments",
+          "text": "Injectors commonly offer a free assessment and treatment plan before any procedure."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Every insurance plan, explained",
+      "intro": "Whatever coverage you have, or none at all, our insurance guide shows what is covered and how to find an in-network provider.",
+      "more": {
+        "slug": "insurance",
+        "title": "Insurance guide"
+      },
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Employer PPO",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "HMO / EPO",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "Medicare & Medicare Advantage",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "Medicaid & CHIP",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "ACA Marketplace plans",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "Dental PPO & DHMO",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "Dental savings plans",
+          "slug": "insurance"
+        },
+        {
+          "icon": "shield",
+          "title": "No insurance / self-pay",
+          "slug": "insurance"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How CareCompass works",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Choose your care",
+          "text": "Pick a treatment or search for what you need, from a cleaning to a tummy tuck."
+        },
+        {
+          "icon": "shield",
+          "title": "Check your coverage",
+          "text": "See what your plan type usually covers and how to confirm it with your insurer."
+        },
+        {
+          "icon": "calendar",
+          "title": "Book a free consult",
+          "text": "Use our checklist to find practices offering free consultations and the right questions to ask."
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use CareCompass?",
-      "html": "<p>Find US dentists, cosmetic surgeons and private clinics offering free consultations, with every insurance plan explained.</p>"
+      "h2": "Healthcare in the US, made easier to navigate",
+      "html": "<p>American healthcare is famously hard to navigate: different plans, networks, deductibles and fine print, and prices that are rarely shown up front. CareCompass is an independent guide that does the groundwork for you. We explain treatments in plain English, show you which questions to ask, and point you to official sources such as <a href=\"https://www.medicare.gov/\" rel=\"nofollow noopener\" target=\"_blank\">Medicare.gov</a> and <a href=\"https://www.healthcare.gov/\" rel=\"nofollow noopener\" target=\"_blank\">HealthCare.gov</a>.</p><p>We focus on the care people most often research before they book: <a href=\"/dentists/\">dental care</a>, <a href=\"/dental-implants/\">implants</a>, <a href=\"/clear-aligners/\">orthodontics</a>, <a href=\"/cosmetic-surgery/\">cosmetic surgery</a>, <a href=\"/botox-fillers/\">injectables</a> and <a href=\"/private-healthcare/\">private and concierge medicine</a>.</p>"
+    },
+    {
+      "h2": "Free consultations, honestly explained",
+      "html": "<p>Many dental, orthodontic and cosmetic practices offer a <strong>free first consultation</strong>, so you can meet the provider, talk through options and get a written treatment plan before you commit. What is included varies: X-rays, 3D scans and exams are sometimes charged separately. Our <a href=\"/free-consultations/\">free consultation guide</a> explains what to expect and how to avoid surprise bills.</p>"
+    },
+    {
+      "h2": "All insurance welcome here",
+      "html": "<p>Whether you have an employer PPO, an HMO, Medicare Advantage, Medicaid, CHIP, a Marketplace plan, a dental savings plan or no insurance at all, CareCompass has a guide for you. Our <a href=\"/insurance/\">insurance hub</a> explains what each type usually covers, and how to confirm a provider is in-network before your appointment.</p><p class=\"note\">CareCompass is not an insurer or a medical provider. Always confirm coverage with your plan and network status with the practice before treatment.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is CareCompass free to use?",
+      "a": "Yes. CareCompass is free for patients. We are part of the Shmor.ai network and may earn a commission from some partner links, at no extra cost to you."
+    },
+    {
+      "q": "Do you accept my insurance?",
+      "a": "CareCompass is not a clinic, so we do not bill insurance. Instead we explain every common plan type (PPO, HMO, Medicare, Medicaid, CHIP, Marketplace and dental plans) and show you how to find providers in your network."
+    },
+    {
+      "q": "Are the consultations really free?",
+      "a": "Many practices offer a free first consultation for elective and cosmetic care, but terms vary. Always ask whether X-rays, scans or exams are included before you book."
+    }
+  ],
+  "related": [
+    "free-consultations",
+    "insurance",
+    "blog"
+  ],
+  "keywords": [
+    "free dental consultation",
+    "free cosmetic surgery consultation",
+    "dentist that takes my insurance",
+    "us healthcare guide"
+  ],
+  "cardText": "Free consultations, every insurance plan explained, and US healthcare news."
 }

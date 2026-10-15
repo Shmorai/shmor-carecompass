@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-05",
+  "slug": "blog/dental-tourism-risks",
+  "type": "post",
+  "title": "Medical and Dental Tourism: Risks to Know First",
+  "description": "Thinking of getting implants, veneers or cosmetic surgery abroad? The CDC’s advice on medical tourism, common risks, aftercare problems and questions to ask.",
+  "h1": "Medical and dental tourism: the risks to know first",
+  "eyebrow": "Guide · Cosmetic & dental",
+  "intro": "Every year, Americans travel abroad for dental work and cosmetic surgery, often to save money. Some have good experiences, but problems can be serious and hard to fix at home.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628372095387-017d1099fc19",
+    "alt": "Empty hospital bed in a clean ward",
+    "credit": "Miguel Ausejo",
+    "creditUrl": "https://unsplash.com/@mausejor"
+  },
+  "keywords": [
+    "medical tourism",
+    "dental tourism",
+    "dental work in mexico",
+    "surgery abroad",
+    "veneers in turkey",
+    "cosmetic surgery abroad"
+  ],
+  "cardText": "Thinking of getting implants, veneers or cosmetic surgery abroad? The CDC’s advice on medical tourism, common risks, aftercare problems and questions to ask.",
+  "sections": [
+    {
+      "h2": "Common risks",
+      "html": "<ul><li>Infections, including antibiotic-resistant infections.</li><li>Blood clots, made more likely by flying soon after surgery.</li><li>Differences in standards for training, equipment and medications.</li><li>Language barriers and unclear consent.</li><li>Limited legal recourse if something goes wrong.</li><li>Difficulty getting follow-up care and revisions at home.</li></ul>"
+    },
+    {
+      "h2": "Dental work abroad",
+      "html": "<p>Extensive treatments such as full-mouth crowns or “all-on-4” implants often need several visits and adjustments over months. Ask how follow-up will work, and be aware that some US dentists may be reluctant to adjust work done elsewhere. Compare with US options: see <a href=\"/dental-implants/\">dental implants</a> and <a href=\"/teeth-whitening/\">veneers</a>.</p>"
+    },
+    {
+      "h2": "If you go anyway",
+      "html": "<ol><li>Follow CDC medical tourism guidance and see a travel health provider beforehand.</li><li>Check the provider’s qualifications and the facility’s accreditation.</li><li>Get all agreements and records in writing, in English.</li><li>Plan enough recovery time before flying home.</li><li>Arrange follow-up care in the US before you leave.</li></ol><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is dental work in Mexico or Turkey safe?",
+      "a": "Quality varies widely. Some clinics meet high standards; others do not. Research thoroughly and plan follow-up care at home."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Medical tourism",
+      "url": "https://www.cdc.gov/medical-tourism/"
+    },
+    {
+      "title": "US State Department: Travel advisories",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/"
+    }
+  ],
+  "related": [
+    "blog/how-to-choose-a-plastic-surgeon",
+    "blog/med-spa-safety",
+    "blog/free-consultation-questions",
+    "cosmetic-surgery"
+  ],
+  "relatedTitle": "Keep reading"
+}

@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-03",
+  "slug": "blog/hsa-changes-2026-2027",
+  "type": "post",
+  "title": "HSA Changes 2026–2027: Bronze Plans, DPC and Limits",
+  "description": "New HSA rules: bronze and catastrophic Marketplace plans now qualify, direct primary care fees can be paid from an HSA, telehealth is permanent and 2027 limits.",
+  "h1": "HSA changes for 2026 and 2027: what is new",
+  "eyebrow": "Explainer · Money",
+  "intro": "The 2025 federal budget law expanded Health Savings Accounts from 2026. More people can now open one, and they can be used in new ways. Here is a summary, plus the 2027 contribution limits.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601342630314-8427c38bf5e6",
+    "alt": "Tablet, laptop and coffee mug on a desk used for budgeting",
+    "credit": "Windows",
+    "creditUrl": "https://unsplash.com/@windows"
+  },
+  "keywords": [
+    "hsa changes",
+    "hsa 2027 limits",
+    "hsa bronze plan",
+    "direct primary care hsa",
+    "hsa dental",
+    "health savings account"
+  ],
+  "cardText": "New HSA rules: bronze and catastrophic Marketplace plans now qualify, direct primary care fees can be paid from an HSA, telehealth is permanent and 2027 limits.",
+  "sections": [
+    {
+      "h2": "What changed in 2026",
+      "html": "<ul><li><strong>Bronze and catastrophic plans:</strong> individual bronze and catastrophic plans available through an exchange are treated as HSA-qualifying high-deductible plans.</li><li><strong>Direct primary care:</strong> people in qualifying DPC arrangements can contribute to an HSA, and can use HSA funds to pay the membership fees, within a monthly limit (the IRS set it at $150 for an individual and $300 for a family arrangement).</li><li><strong>Telehealth:</strong> plans can cover telehealth before the deductible without affecting HSA eligibility, now on a permanent basis.</li></ul>"
+    },
+    {
+      "h2": "2027 limits",
+      "html": "<p>For 2027 the IRS has set HSA contribution limits of <strong>$4,500</strong> for self-only coverage and <strong>$9,000</strong> for family coverage, with an extra $1,000 catch-up contribution for people aged 55 or older.</p>"
+    },
+    {
+      "h2": "Using your HSA for dental and cosmetic care",
+      "html": "<p>HSA funds can generally pay for qualified dental care such as cleanings, fillings, braces and implants. Purely cosmetic procedures, such as teeth whitening or elective cosmetic surgery, generally do not qualify. See <a href=\"/dentists/\">dental care</a> and <a href=\"/private-healthcare/\">direct primary care</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use my HSA for Invisalign?",
+      "a": "Orthodontic treatment to correct teeth alignment is generally a qualified medical expense. Keep receipts."
+    }
+  ],
+  "sources": [
+    {
+      "title": "IRS: HSA guidance under the One Big Beautiful Bill",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-on-new-tax-benefits-for-health-savings-account-participants-under-the-one-big-beautiful-bill"
+    },
+    {
+      "title": "IRS Publication 969",
+      "url": "https://www.irs.gov/publications/p969"
+    },
+    {
+      "title": "HealthCare.gov: HSAs",
+      "url": "https://www.healthcare.gov/hsa-options/"
+    }
+  ],
+  "related": [
+    "blog/med-spa-safety",
+    "blog/medicare-telehealth-2027",
+    "blog/no-surprises-act-guide",
+    "private-healthcare"
+  ],
+  "relatedTitle": "Keep reading"
+}

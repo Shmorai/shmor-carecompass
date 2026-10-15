@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-02",
+  "slug": "blog/medicare-telehealth-2027",
+  "type": "post",
+  "title": "Medicare Telehealth Extended Through 2027",
+  "description": "Medicare telehealth flexibilities, including visits from home, run through December 31, 2027. What is covered and what may change next.",
+  "h1": "Medicare telehealth extended through 2027",
+  "eyebrow": "News · Telehealth",
+  "intro": "Medicare’s pandemic-era telehealth flexibilities have lapsed and been renewed several times. A government funding law signed in February 2026 extended them through December 31, 2027.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758691462743-f9fc9e430d39",
+    "alt": "Doctor talking to a patient on a video call on a laptop",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "keywords": [
+    "medicare telehealth",
+    "telehealth extension",
+    "telehealth 2027",
+    "virtual doctor visit",
+    "audio only telehealth"
+  ],
+  "cardText": "Medicare telehealth flexibilities, including visits from home, run through December 31, 2027.",
+  "sections": [
+    {
+      "h2": "What the extension means",
+      "html": "<ul><li>You can generally receive Medicare telehealth services at home, wherever you live, not only in rural areas or at a clinic.</li><li>A wider range of practitioners can bill for telehealth.</li><li>Some services can be delivered audio-only when video is not possible.</li></ul><p>Behavioral and mental health telehealth at home was already permanent under earlier law, though in-person visit requirements may apply.</p>"
+    },
+    {
+      "h2": "Tips for telehealth visits",
+      "html": "<ul><li>Ask whether your doctor offers video visits and how to join.</li><li>Check costs: normal Part B cost-sharing usually applies.</li><li>Medicare Advantage plans may offer additional telehealth benefits.</li><li>Use telehealth for follow-ups and prescription reviews; see a clinician in person when you need an exam.</li></ul><p>Telehealth also plays a growing role in <a href=\"/private-healthcare/\">private and direct primary care</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Medicare cover telehealth at home?",
+      "a": "Yes, under the flexibilities extended through December 31, 2027. Normal cost-sharing applies."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Medicare.gov: Telehealth",
+      "url": "https://www.medicare.gov/coverage/telehealth"
+    },
+    {
+      "title": "HHS: Telehealth policy updates",
+      "url": "https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
+    }
+  ],
+  "related": [
+    "blog/medicare-open-enrollment-2027",
+    "blog/hsa-changes-2026-2027",
+    "blog/no-surprises-act-guide",
+    "private-healthcare"
+  ],
+  "relatedTitle": "Keep reading"
+}

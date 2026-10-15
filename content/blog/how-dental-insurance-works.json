@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-27",
+  "slug": "blog/how-dental-insurance-works",
+  "type": "post",
+  "title": "How Dental Insurance Works: Maximums and Waiting Periods",
+  "description": "Dental insurance explained: annual maximums, deductibles, the 100-80-50 coverage pattern, waiting periods, missing tooth clauses and pre-treatment estimates.",
+  "h1": "How dental insurance works (and how to get the most from it)",
+  "eyebrow": "Explainer · Dental insurance",
+  "intro": "Dental insurance works quite differently from health insurance. Understanding a few key terms can save you a lot of money and frustration.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1600170311833-c2cf5280ce49",
+    "alt": "Gloved hand pointing at a dental X-ray scan on a tablet",
+    "credit": "Quang Tri NGUYEN",
+    "creditUrl": "https://unsplash.com/@quangtri"
+  },
+  "keywords": [
+    "dental insurance",
+    "how dental insurance works",
+    "annual maximum",
+    "dental waiting period",
+    "missing tooth clause",
+    "dental ppo",
+    "dhmo"
+  ],
+  "cardText": "Dental insurance explained: annual maximums, deductibles, the 100-80-50 coverage pattern, waiting periods, missing tooth clauses and pre-treatment estimates.",
+  "sections": [
+    {
+      "h2": "Key terms",
+      "html": "<table><thead><tr><th>Term</th><th>What it means</th></tr></thead><tbody><tr><td>Annual maximum</td><td>The most the plan pays in a benefit year; you pay everything above it</td></tr><tr><td>Deductible</td><td>What you pay before the plan starts paying (often waived for preventive care)</td></tr><tr><td>Coinsurance</td><td>Your percentage share of the cost</td></tr><tr><td>Waiting period</td><td>Time before certain services are covered after you join</td></tr><tr><td>Missing tooth clause</td><td>Exclusion for replacing teeth lost before coverage began</td></tr><tr><td>Frequency limits</td><td>How often services such as cleanings or X-rays are covered</td></tr></tbody></table>"
+    },
+    {
+      "h2": "The common coverage pattern",
+      "html": "<p>Many dental PPO plans follow a pattern often described as 100-80-50: preventive care covered at or near 100%, basic services (such as fillings) at around 80%, and major services (such as crowns and bridges) at around 50%. Your plan may differ, so read the summary of benefits.</p>"
+    },
+    {
+      "h2": "Getting the most from your plan",
+      "html": "<ul><li>Use preventive visits every year.</li><li>Ask for a pre-treatment estimate before major work.</li><li>If you need extensive treatment, ask about splitting it across two benefit years.</li><li>Check your dentist is in-network for your exact plan; see <a href=\"/insurance/\">our insurance guide</a>.</li><li>Compare with <a href=\"/blog/dental-savings-plans-vs-insurance/\">dental savings plans</a> if you need major work soon.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does my dental plan have an annual maximum?",
+      "a": "Most dental plans cap what they pay each year. Once you reach it, you pay the full cost until the benefit year resets."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HealthCare.gov: Dental coverage",
+      "url": "https://www.healthcare.gov/coverage/dental-coverage/"
+    },
+    {
+      "title": "American Dental Association: MouthHealthy",
+      "url": "https://www.mouthhealthy.org/"
+    }
+  ],
+  "related": [
+    "blog/does-medicare-cover-dental",
+    "blog/dental-savings-plans-vs-insurance",
+    "blog/free-and-low-cost-dental-care",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

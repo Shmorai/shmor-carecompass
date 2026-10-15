@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-15",
+  "slug": "emergency-dentist",
+  "title": "Emergency Dentist: What to Do and Where to Go, US",
+  "description": "Toothache, a broken or knocked-out tooth, or facial swelling? What counts as a dental emergency, first aid steps and when to go to the ER instead.",
+  "eyebrow": "Urgent dental care",
+  "h1": "Emergency dentist: what to do right now",
+  "intro": "Dental emergencies happen at the worst times. Here is what to do first, how to find same-day care and when you need the emergency room.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787",
+    "alt": "Dental chair and equipment in a bright clinic",
+    "credit": "Atikah Akhtar",
+    "creditUrl": "https://unsplash.com/@atikahakhtar"
+  },
+  "sections": [
+    {
+      "h2": "Call 911 or go to the ER if…",
+      "html": "<ul><li>you have swelling that affects breathing or swallowing, or spreads to your eye or neck;</li><li>you have a high fever with facial swelling;</li><li>you have uncontrolled bleeding or a jaw injury after an accident.</li></ul><p>These can be signs of a serious infection or injury that needs hospital care.</p>"
+    },
+    {
+      "h2": "Common dental emergencies",
+      "html": "<ul><li><strong>Knocked-out adult tooth:</strong> hold it by the crown, rinse gently, try to put it back in the socket or keep it in milk, and see a dentist immediately. Time matters.</li><li><strong>Broken tooth:</strong> rinse, apply a cold compress and save any pieces.</li><li><strong>Severe toothache or abscess:</strong> see a dentist the same day; do not put aspirin on the gum.</li><li><strong>Lost filling or crown:</strong> keep the crown and book a prompt appointment.</li></ul>"
+    },
+    {
+      "h2": "Finding same-day dental care",
+      "html": "<p>Call your regular dentist first: many keep emergency slots or have an out-of-hours line. Otherwise look for emergency dental clinics, dental school urgent care clinics or community health centers. Urgent care centers can assess pain and infection but usually cannot treat teeth. See <a href=\"/blog/urgent-care-vs-er/\">urgent care vs the ER</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does insurance cover emergency dental visits?",
+      "a": "Most dental plans cover an emergency exam and palliative treatment, subject to deductibles and limits. Hospital ER care for dental-related problems may fall under your health insurance."
+    }
+  ],
+  "related": [
+    "dentists",
+    "blog/urgent-care-vs-er",
+    "blog/free-and-low-cost-dental-care",
+    "insurance"
+  ],
+  "keywords": [
+    "emergency dentist",
+    "same day dentist",
+    "toothache",
+    "broken tooth",
+    "knocked out tooth",
+    "tooth abscess",
+    "24 hour dentist"
+  ],
+  "cardText": "First aid for dental emergencies and where to get same-day care."
+}

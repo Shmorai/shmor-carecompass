@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-09",
+  "slug": "blog/compounded-glp1-fda",
+  "type": "post",
+  "title": "Compounded GLP-1s in 2026: What the FDA Says",
+  "description": "The semaglutide and tirzepatide shortages are over. What that means for compounded GLP-1 weight-loss drugs, FDA warnings and safer options.",
+  "h1": "Compounded semaglutide and tirzepatide: what the FDA says now",
+  "eyebrow": "News · Weight loss drugs",
+  "intro": "During the GLP-1 shortages, compounded versions of semaglutide and tirzepatide became widely available from telehealth companies and med spas. The shortages are over, and the rules have changed.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2",
+    "alt": "Close-up of a white, blue and orange capsule",
+    "credit": "Myriam Zilles",
+    "creditUrl": "https://unsplash.com/@myriamzilles"
+  },
+  "keywords": [
+    "compounded semaglutide",
+    "compounded tirzepatide",
+    "glp-1",
+    "ozempic",
+    "wegovy",
+    "mounjaro",
+    "zepbound",
+    "weight loss injections",
+    "fda glp-1"
+  ],
+  "cardText": "The semaglutide and tirzepatide shortages are over.",
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>The FDA declared the tirzepatide shortage resolved in late 2024 and the semaglutide shortage resolved in February 2025. Once a drug is no longer in shortage, pharmacies generally cannot make copies that are essentially the same as the approved product, after short transition periods that have now ended. Legal challenges by compounders were pending as of October 2026.</p>"
+    },
+    {
+      "h2": "FDA warnings",
+      "html": "<p>Compounded drugs are not FDA-approved, so they have not been reviewed for safety, effectiveness or quality. The FDA has sent warning letters to companies marketing compounded GLP-1s with misleading claims, such as implying they are the same as brand-name drugs, and has received reports of dosing errors with compounded products.</p>"
+    },
+    {
+      "h2": "If you are considering a GLP-1",
+      "html": "<ul><li>Talk to a licensed clinician about whether a GLP-1 is right for you.</li><li>Be wary of sellers that do not require a prescription or medical history.</li><li>Check insurance coverage and manufacturers’ savings programs for approved drugs.</li><li>On Medicare? See <a href=\"/blog/medicare-drug-price-negotiation-2027/\">negotiated prices for semaglutide</a>.</li><li>Choose med spas carefully: see <a href=\"/blog/med-spa-safety/\">med spa safety</a>.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is compounded semaglutide legal?",
+      "a": "Routine copies of approved drugs are generally no longer allowed now the shortage is over. Narrow exceptions exist for patient-specific medical needs."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FDA: Concerns with unapproved GLP-1 drugs",
+      "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+    },
+    {
+      "title": "FDA: Drug shortages",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages"
+    }
+  ],
+  "related": [
+    "blog/medicare-drug-price-negotiation-2027",
+    "blog/part-d-out-of-pocket-cap",
+    "blog/medicaid-work-requirements-2027",
+    "botox-fillers"
+  ],
+  "relatedTitle": "Keep reading"
+}

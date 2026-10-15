@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-15",
+  "slug": "clear-aligners",
+  "title": "Invisalign vs Braces: Free Orthodontic Consultations",
+  "description": "Clear aligners vs traditional braces for teens and adults: how they work, insurance coverage for orthodontics, HSA use and what a free consultation covers.",
+  "eyebrow": "Orthodontics",
+  "h1": "Invisalign, clear aligners and braces",
+  "intro": "Straighter teeth are within reach at any age. Compare clear aligners and braces, check your orthodontic coverage and book a free first visit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe",
+    "alt": "Person fitting a clear plastic aligner over their teeth",
+    "credit": "Diana Polekhina",
+    "creditUrl": "https://unsplash.com/@diana_pole"
+  },
+  "sections": [
+    {
+      "h2": "Aligners vs braces",
+      "html": "<table><thead><tr><th></th><th>Clear aligners</th><th>Traditional braces</th></tr></thead><tbody><tr><td>Look</td><td>Nearly invisible</td><td>Visible (ceramic options less so)</td></tr><tr><td>Removable</td><td>Yes; must be worn most of the day</td><td>No</td></tr><tr><td>Best for</td><td>Mild to moderate cases (and more with expert planning)</td><td>Simple to complex cases</td></tr><tr><td>Discipline needed</td><td>High: results depend on wear time</td><td>Lower</td></tr></tbody></table>"
+    },
+    {
+      "h2": "In-office vs direct-to-consumer aligners",
+      "html": "<p>Aligners prescribed and monitored in person by an orthodontist or dentist allow X-rays, regular check-ins and adjustments. Mail-order aligner models with less in-person supervision have been around for years, but the American Association of Orthodontists recommends an in-person exam before starting treatment. See our <a href=\"/blog/clear-aligners-vs-braces/\">detailed comparison</a>.</p>"
+    },
+    {
+      "h2": "Insurance for orthodontics",
+      "html": "<p>Many dental plans include orthodontic coverage for children under a set age, often with a separate <strong>lifetime maximum</strong>; adult orthodontic coverage is less common. Medicaid and CHIP may cover medically necessary orthodontics for children. HSA and FSA funds can usually be used for braces and aligners.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do orthodontists offer free consultations?",
+      "a": "Many do. The first visit often includes an exam and treatment options; ask whether X-rays or scans are included."
+    },
+    {
+      "q": "Am I too old for braces?",
+      "a": "No. Adults can have orthodontic treatment as long as their teeth and gums are healthy."
+    }
+  ],
+  "related": [
+    "free-consultations",
+    "teeth-whitening",
+    "blog/clear-aligners-vs-braces",
+    "blog/kids-dental-care-chip"
+  ],
+  "keywords": [
+    "invisalign",
+    "clear aligners",
+    "braces",
+    "orthodontist",
+    "adult braces",
+    "free orthodontic consultation",
+    "free invisalign consultation",
+    "teeth straightening"
+  ],
+  "cardText": "Clear aligners vs braces, orthodontic insurance and free first visits."
+}

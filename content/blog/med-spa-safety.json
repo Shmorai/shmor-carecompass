@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-04",
+  "slug": "blog/med-spa-safety",
+  "type": "post",
+  "title": "Med Spa Safety: How to Choose a Botox Provider",
+  "description": "Med spa safety guide: who can inject Botox and fillers, spotting counterfeit products, questions to ask and what to do if something goes wrong.",
+  "h1": "Med spa safety: choosing who injects your Botox and fillers",
+  "eyebrow": "Guide · Aesthetics",
+  "intro": "Med spas are everywhere, and injectables are medical treatments. Here is how to choose a provider you can trust.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1552693673-1bf958298935",
+    "alt": "Woman receiving a facial skincare treatment",
+    "credit": "karelys Ruiz",
+    "creditUrl": "https://unsplash.com/@karelysruiz"
+  },
+  "keywords": [
+    "med spa safety",
+    "botox safety",
+    "counterfeit botox",
+    "who can inject botox",
+    "filler complications",
+    "choose a med spa"
+  ],
+  "cardText": "Med spa safety guide: who can inject Botox and fillers, spotting counterfeit products, questions to ask and what to do if something goes wrong.",
+  "sections": [
+    {
+      "h2": "Who is allowed to inject",
+      "html": "<p>Rules vary by state. Depending on where you live, injections may be given by physicians, physician assistants, nurse practitioners or registered nurses, usually under some level of physician supervision. Ask who your injector is, their license type, and who the supervising doctor is. You can check licenses with your state licensing boards.</p>"
+    },
+    {
+      "h2": "Watch for counterfeit products",
+      "html": "<p>The FDA and CDC have warned about counterfeit or unapproved botulinum toxin given by unlicensed people or in non-medical settings, with reports of serious harm. Ask to see the product box and confirm it is an FDA-approved brand obtained from a licensed source.</p>"
+    },
+    {
+      "h2": "Questions to ask",
+      "html": "<ol><li>Who will inject me, and what is their training?</li><li>Which product is being used, and is it FDA-approved?</li><li>How are complications handled, and is there a doctor available?</li><li>What is the total price, per unit or per syringe?</li></ol><p>More in <a href=\"/botox-fillers/\">our Botox & fillers guide</a> and <a href=\"/blog/compounded-glp1-fda/\">compounded GLP-1s at med spas</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are signs of a problem after Botox?",
+      "a": "Seek urgent medical care for difficulty swallowing, breathing or speaking, drooping eyelids, blurred vision or muscle weakness after injection."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FDA: Botulinum toxin safety",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/counterfeit-and-mishandled-botulinum-toxin-products-pose-significant-health-risks-consumers"
+    },
+    {
+      "title": "FDA: Dermal fillers",
+      "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers"
+    }
+  ],
+  "related": [
+    "blog/how-to-choose-a-plastic-surgeon",
+    "blog/dental-tourism-risks",
+    "blog/free-consultation-questions",
+    "botox-fillers"
+  ],
+  "relatedTitle": "Keep reading"
+}

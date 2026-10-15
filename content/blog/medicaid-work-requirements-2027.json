@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-10",
+  "slug": "blog/medicaid-work-requirements-2027",
+  "type": "post",
+  "title": "Medicaid Work Requirements 2027: Who Is Affected",
+  "description": "Medicaid “community engagement” requirements start by Jan 1, 2027 in expansion states. Who must report 80 hours a month, who is exempt and how to keep cover.",
+  "h1": "Medicaid work requirements: what changes in 2027",
+  "eyebrow": "News · Medicaid",
+  "intro": "The 2025 federal budget law created new Medicaid “community engagement” (work) requirements for many adults covered through Medicaid expansion. CMS issued an interim final rule in June 2026, and states must apply the requirements from January 1, 2027, or earlier if they choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1583521214690-73421a1829a9",
+    "alt": "Stacks of paper documents and file folders",
+    "credit": "Wesley Tingey",
+    "creditUrl": "https://unsplash.com/@wesleyphotography"
+  },
+  "keywords": [
+    "medicaid work requirements",
+    "medicaid community engagement",
+    "medicaid 2027",
+    "medicaid expansion",
+    "one big beautiful bill medicaid"
+  ],
+  "cardText": "Medicaid “community engagement” requirements start by Jan 1, 2027 in expansion states.",
+  "sections": [
+    {
+      "h2": "Who it applies to",
+      "html": "<p>The requirement generally applies to adults aged 19 to 64 who are covered through the ACA Medicaid expansion. They must show at least <strong>80 hours a month</strong> of work, community service, a work program or education (or a combination), or meet an income test, to enroll or keep coverage at renewal.</p>"
+    },
+    {
+      "h2": "Who is exempt",
+      "html": "<p>The law lists exemptions, including (among others) parents and caregivers of young children or people with disabilities, pregnant and postpartum individuals, people who are medically frail or have certain disabilities, and people in substance use disorder treatment. States handle the details, so check with your state Medicaid agency.</p>"
+    },
+    {
+      "h2": "How to protect your coverage",
+      "html": "<ol><li>Make sure your state Medicaid agency has your current address, phone and email.</li><li>Open and respond to every letter from your agency.</li><li>Keep records of work hours, school enrollment or volunteering.</li><li>If you think you are exempt, ask how to claim the exemption.</li><li>If you lose coverage, ask about appeals and check <a href=\"/blog/aca-open-enrollment-2027/\">Marketplace options</a>.</li></ol><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do Medicaid work requirements start?",
+      "a": "States must apply them from January 1, 2027, though states can start earlier, and some already have."
+    },
+    {
+      "q": "Do work requirements apply to children?",
+      "a": "No. They apply to certain adults in the Medicaid expansion group, not to children or CHIP."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: Medicaid community engagement interim final rule (CMS-2454-IFC)",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms"
+    },
+    {
+      "title": "Medicaid.gov",
+      "url": "https://www.medicaid.gov/"
+    }
+  ],
+  "related": [
+    "blog/free-consultation-questions",
+    "blog/compounded-glp1-fda",
+    "blog/medicare-drug-price-negotiation-2027",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

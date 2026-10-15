@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-15",
+  "slug": "dentists",
+  "nav": "Dental care",
+  "navOrder": 3,
+  "title": "Find a Dentist: Dental Care & Costs Explained, US",
+  "description": "How to find a good dentist that takes your insurance, what check-ups, fillings and crowns involve, and how to keep US dental costs under control.",
+  "eyebrow": "Dental care",
+  "h1": "Dental care: finding a dentist you trust",
+  "intro": "From routine check-ups to crowns, here is how to find a dentist who takes your plan, what common treatments involve and how to keep costs predictable.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99",
+    "alt": "Dental check-up with a mouth mirror and probe",
+    "credit": "Caroline LM",
+    "creditUrl": "https://unsplash.com/@carocaro1987"
+  },
+  "highlights": [
+    {
+      "icon": "🪥",
+      "title": "Preventive care",
+      "text": "Exams, cleanings and X-rays. Often covered at or near 100% by dental plans."
+    },
+    {
+      "icon": "🦷",
+      "title": "Restorative care",
+      "text": "Fillings, root canals, crowns and bridges to repair damaged teeth."
+    },
+    {
+      "icon": "😁",
+      "title": "Cosmetic dentistry",
+      "text": "Whitening, veneers and bonding. Usually not covered by insurance."
+    },
+    {
+      "icon": "🚑",
+      "title": "Emergency care",
+      "text": "Severe pain, swelling or a knocked-out tooth needs same-day care."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to choose a dentist",
+      "html": "<ul><li>Check they are <strong>in-network</strong> with your exact plan (see our <a href=\"/insurance/\">insurance guide</a>).</li><li>Confirm their license with your state dental board.</li><li>Look for clear pricing, a written treatment plan and options to phase treatment.</li><li>Ask about new-patient specials and free consultations for bigger treatment.</li><li>For children, consider a pediatric dentist; see <a href=\"/blog/kids-dental-care-chip/\">kids’ dental care and CHIP</a>.</li></ul>"
+    },
+    {
+      "h2": "Common treatments, in plain English",
+      "html": "<table><thead><tr><th>Treatment</th><th>What it is</th><th>Typical insurance category</th></tr></thead><tbody><tr><td>Exam & cleaning</td><td>Check-up and professional cleaning</td><td>Preventive</td></tr><tr><td>Filling</td><td>Repairs a cavity</td><td>Basic</td></tr><tr><td>Root canal</td><td>Treats infected tooth pulp</td><td>Basic or major (varies)</td></tr><tr><td>Crown</td><td>Cap that covers a damaged tooth</td><td>Major</td></tr><tr><td>Implant</td><td>Replaces a missing tooth root</td><td>Major (often limited)</td></tr></tbody></table><p>Categories differ between plans. Check your summary of benefits.</p>"
+    },
+    {
+      "h2": "Keeping costs down",
+      "html": "<ul><li>Use your preventive benefits: twice-yearly check-ups catch problems early.</li><li>Ask for a pre-treatment estimate for anything major.</li><li>Time treatment around your plan’s <strong>annual maximum</strong>, which often resets each January.</li><li>Use HSA/FSA funds for eligible care (see <a href=\"/blog/hsa-changes-2026-2027/\">HSA changes</a>).</li><li>No insurance? Compare <a href=\"/blog/dental-savings-plans-vs-insurance/\">dental savings plans</a> and <a href=\"/blog/free-and-low-cost-dental-care/\">low-cost options</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should I see a dentist?",
+      "a": "Many people are advised to have a check-up every six months, but your dentist may recommend a different interval based on your oral health."
+    },
+    {
+      "q": "How do I find a dentist that takes Medicaid?",
+      "a": "Use your state Medicaid agency’s provider search, or InsureKidsNow.gov for children’s dental care, then call the practice to confirm they are accepting new Medicaid patients."
+    }
+  ],
+  "related": [
+    "emergency-dentist",
+    "dental-implants",
+    "blog/how-dental-insurance-works",
+    "blog/free-and-low-cost-dental-care"
+  ],
+  "keywords": [
+    "dentist",
+    "dentist near me",
+    "family dentist",
+    "dental care",
+    "dental check up",
+    "teeth cleaning",
+    "fillings",
+    "crown",
+    "root canal",
+    "new patient dentist"
+  ],
+  "cardText": "Find a dentist who takes your plan, and understand common treatments."
+}

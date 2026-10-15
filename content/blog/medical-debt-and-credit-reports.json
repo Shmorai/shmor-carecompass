@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-30",
+  "slug": "blog/medical-debt-and-credit-reports",
+  "type": "post",
+  "title": "Medical Debt and Your Credit Report in 2026",
+  "description": "The CFPB rule banning medical debt from credit reports was vacated in 2025. What protections remain, how to dispute errors and how to negotiate medical bills.",
+  "h1": "Medical debt and your credit report: where things stand",
+  "eyebrow": "Explainer · Medical bills",
+  "intro": "A federal rule that would have removed medical debt from credit reports never took effect: a federal court vacated it in July 2025. Here is what still protects you and what to do about a medical bill you cannot pay.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1683899473421-d11d677139d6",
+    "alt": "Shopping cart filled with pills and money, illustrating healthcare costs",
+    "credit": "Anastasiia Gudantova",
+    "creditUrl": "https://unsplash.com/@gudnat"
+  },
+  "keywords": [
+    "medical debt",
+    "medical debt credit report",
+    "cfpb medical debt rule",
+    "medical bills",
+    "hospital financial assistance",
+    "charity care"
+  ],
+  "cardText": "The CFPB rule banning medical debt from credit reports was vacated in 2025.",
+  "sections": [
+    {
+      "h2": "What happened to the federal rule",
+      "html": "<p>In January 2025 the Consumer Financial Protection Bureau (CFPB) finalized a rule to stop most medical debt from appearing on credit reports. In July 2025 a federal court in Texas ruled the CFPB had exceeded its authority and vacated the rule.</p>"
+    },
+    {
+      "h2": "Protections that still apply",
+      "html": "<ul><li>The three nationwide credit bureaus have voluntary policies that keep paid medical collections and smaller medical collection debts off reports, and wait before reporting new medical collections.</li><li>A number of states have their own laws limiting medical debt reporting.</li><li>You can dispute any inaccurate information with the credit bureau and the company that reported it.</li></ul>"
+    },
+    {
+      "h2": "Dealing with a medical bill",
+      "html": "<ol><li>Ask for an itemized bill and check it for errors.</li><li>Check whether the <a href=\"/blog/no-surprises-act-guide/\">No Surprises Act</a> applies.</li><li>Ask the hospital about financial assistance (charity care); nonprofit hospitals must have a policy.</li><li>Negotiate a discount or an interest-free payment plan.</li><li>Be cautious about putting medical bills on high-interest credit cards.</li></ol><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is medical debt still on credit reports?",
+      "a": "It can be. The CFPB rule was vacated, but bureau policies and some state laws keep many medical debts off reports."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CFPB: Medical debt",
+      "url": "https://www.consumerfinance.gov/consumer-tools/medical-debt/"
+    },
+    {
+      "title": "FTC: Disputing errors on credit reports",
+      "url": "https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports"
+    }
+  ],
+  "related": [
+    "blog/no-surprises-act-guide",
+    "blog/urgent-care-vs-er",
+    "blog/hospital-price-transparency",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

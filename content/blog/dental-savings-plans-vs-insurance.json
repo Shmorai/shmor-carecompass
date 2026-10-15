@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-26",
+  "slug": "blog/dental-savings-plans-vs-insurance",
+  "type": "post",
+  "title": "Dental Savings Plans vs Dental Insurance: Which Is Better?",
+  "description": "Dental savings (discount) plans and dental insurance compared: how each works, waiting periods, annual maximums, in-house membership plans and who each suits.",
+  "h1": "Dental savings plans vs dental insurance",
+  "eyebrow": "Comparison · Dental",
+  "intro": "If you do not get dental insurance through work, you have two main choices: buy a dental insurance plan or join a dental savings plan. Here is how they compare.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95",
+    "alt": "Dentist in a white shirt holding a pen at a consultation",
+    "credit": "Caroline LM",
+    "creditUrl": "https://unsplash.com/@carocaro1987"
+  },
+  "keywords": [
+    "dental savings plan",
+    "dental discount plan",
+    "dental insurance vs discount plan",
+    "dental membership plan",
+    "dental plan no waiting period"
+  ],
+  "cardText": "Dental savings (discount) plans and dental insurance compared: how each works, waiting periods, annual maximums, in-house membership plans and who each suits.",
+  "sections": [
+    {
+      "h2": "Side by side",
+      "html": "<table><thead><tr><th></th><th>Dental insurance</th><th>Dental savings plan</th></tr></thead><tbody><tr><td>Is it insurance?</td><td>Yes</td><td>No: a discount membership</td></tr><tr><td>Annual maximum</td><td>Usually yes</td><td>Usually none</td></tr><tr><td>Waiting periods</td><td>Common for basic and major care</td><td>Usually none</td></tr><tr><td>Pre-existing conditions</td><td>May be excluded</td><td>Usually accepted</td></tr><tr><td>Network</td><td>PPO or DHMO network</td><td>Participating dentists only</td></tr></tbody></table>"
+    },
+    {
+      "h2": "In-house membership plans",
+      "html": "<p>Many dental practices now offer their own membership plans: a yearly or monthly fee that covers preventive visits plus a discount on other treatment. They can be good value if you are uninsured and like your dentist, but only work at that practice.</p>"
+    },
+    {
+      "h2": "Which suits you?",
+      "html": "<ul><li><strong>Insurance</strong> may suit people who mainly want preventive care and can plan major work around waiting periods.</li><li><strong>Savings plans</strong> may suit people who need treatment soon, have reached their annual maximum, or are on <a href=\"/blog/does-medicare-cover-dental/\">Medicare without dental coverage</a>.</li></ul><p>Before joining a discount plan, confirm your dentist participates. Check plan terms with your state insurance department if anything is unclear.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are dental savings plans legitimate?",
+      "a": "Many are, but they are not insurance. Check which dentists participate and read the terms, including cancellation rules."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HealthCare.gov: Dental coverage",
+      "url": "https://www.healthcare.gov/coverage/dental-coverage/"
+    },
+    {
+      "title": "NAIC: Insurance department contacts",
+      "url": "https://content.naic.org/state-insurance-departments"
+    }
+  ],
+  "related": [
+    "blog/does-medicare-cover-dental",
+    "blog/how-dental-insurance-works",
+    "blog/free-and-low-cost-dental-care",
+    "dentists"
+  ],
+  "relatedTitle": "Keep reading"
+}

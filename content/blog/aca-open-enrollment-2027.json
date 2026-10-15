@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-14",
+  "slug": "blog/aca-open-enrollment-2027",
+  "type": "post",
+  "title": "ACA Open Enrollment 2027: Dates, Deadlines and Tips",
+  "description": "HealthCare.gov open enrollment for 2027 coverage starts November 1, 2026. Deadlines, state exchange dates, rising premiums and how to compare Marketplace plans.",
+  "h1": "ACA Marketplace open enrollment for 2027: dates and tips",
+  "eyebrow": "News · Health insurance",
+  "intro": "If you buy your own health insurance, open enrollment for 2027 Marketplace coverage starts on November 1, 2026. With premiums rising and subsidies smaller for many households, it is worth shopping carefully this year.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758691461990-03b49d969495",
+    "alt": "Doctor writing notes on a patient chart",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "keywords": [
+    "aca open enrollment",
+    "obamacare open enrollment 2027",
+    "healthcare.gov",
+    "marketplace insurance",
+    "health insurance open enrollment"
+  ],
+  "cardText": "HealthCare.gov open enrollment for 2027 coverage starts November 1, 2026.",
+  "sections": [
+    {
+      "h2": "Dates to know",
+      "html": "<ul><li><strong>November 1, 2026:</strong> open enrollment starts on HealthCare.gov.</li><li><strong>December 15, 2026:</strong> enroll by this date for coverage starting January 1, 2027.</li><li><strong>January 15, 2027:</strong> the HealthCare.gov window is expected to close; enrollments after December 15 generally start February 1.</li></ul><p>States that run their own exchanges can set different dates, and some open earlier or close later. Rules on the length of the window have been subject to litigation, so confirm the current deadline on HealthCare.gov or your state exchange.</p>"
+    },
+    {
+      "h2": "Why to compare plans this year",
+      "html": "<p>Insurers have filed for further premium increases for 2027, and the enhanced premium tax credits that lowered costs from 2021 to 2025 have expired. See <a href=\"/blog/aca-subsidies-2027/\">what changed with ACA subsidies</a>. Do not auto-renew without checking your new premium, deductible and network.</p>"
+    },
+    {
+      "h2": "Tips for choosing a plan",
+      "html": "<ul><li>Update your expected 2027 income: subsidies are based on it.</li><li>Compare total yearly cost (premiums plus likely out-of-pocket costs), not just the premium.</li><li>Check your doctors, hospitals and prescriptions are covered.</li><li>Bronze and catastrophic Marketplace plans can now be paired with an HSA; see <a href=\"/blog/hsa-changes-2026-2027/\">HSA changes</a>.</li><li>Need adult dental? It is usually a separate plan; see <a href=\"/insurance/\">our insurance guide</a>.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does ACA open enrollment start for 2027?",
+      "a": "November 1, 2026 on HealthCare.gov. Enroll by December 15 for coverage starting January 1, 2027."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HealthCare.gov",
+      "url": "https://www.healthcare.gov/"
+    },
+    {
+      "title": "HealthCare.gov: Dates and deadlines",
+      "url": "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
+    }
+  ],
+  "related": [
+    "blog/aca-subsidies-2027",
+    "blog/medicare-open-enrollment-2027",
+    "blog/free-consultation-questions",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

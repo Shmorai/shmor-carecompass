@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-15",
+  "slug": "blog/medicare-open-enrollment-2027",
+  "type": "post",
+  "title": "Medicare Open Enrollment 2027: Dates and What Changes",
+  "description": "Medicare open enrollment runs Oct 15 to Dec 7, 2026. The 2027 Part D cap, deductible, Medicare Advantage changes and what to check before you switch.",
+  "h1": "Medicare open enrollment for 2027: what to check before December 7",
+  "eyebrow": "News · Medicare",
+  "intro": "Medicare’s annual open enrollment period started today, October 15, and runs until December 7, 2026. Changes you make take effect on January 1, 2027. Here is what is different and how to review your coverage.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1559234938-b60fff04894d",
+    "alt": "Older man and woman walking together on a country road",
+    "credit": "micheile henderson",
+    "creditUrl": "https://unsplash.com/@micheile"
+  },
+  "keywords": [
+    "medicare open enrollment",
+    "medicare open enrollment 2027",
+    "medicare advantage 2027",
+    "part d 2027",
+    "medicare annual enrollment period"
+  ],
+  "cardText": "Medicare open enrollment runs Oct 15 to Dec 7, 2026.",
+  "sections": [
+    {
+      "h2": "Key dates",
+      "html": "<ul><li><strong>October 15 – December 7, 2026:</strong> join, switch or drop a Medicare Advantage or Part D drug plan.</li><li><strong>January 1, 2027:</strong> new coverage starts.</li><li><strong>January 1 – March 31, 2027:</strong> Medicare Advantage open enrollment, when people already in an Advantage plan can make one switch.</li></ul>"
+    },
+    {
+      "h2": "What changes for 2027",
+      "html": "<ul><li><strong>Part D out-of-pocket cap:</strong> rises to $2,400 in 2027 (from $2,100 in 2026), according to Medicare.gov. After you reach it, you pay nothing more for covered drugs that year.</li><li><strong>Part D deductible:</strong> the maximum standard deductible is $700 in 2027.</li><li><strong>Negotiated drug prices:</strong> a second round of Medicare-negotiated prices, including for semaglutide (Ozempic, Wegovy, Rybelsus), takes effect in 2027. See <a href=\"/blog/medicare-drug-price-negotiation-2027/\">our explainer</a>.</li><li><strong>Plan details:</strong> premiums, networks, formularies and extra benefits such as dental change every year, so compare your plan’s Annual Notice of Change.</li></ul><p>The 2027 Part B premium and deductible are announced by CMS each fall; check Medicare.gov for the final figures.</p>"
+    },
+    {
+      "h2": "Your open enrollment checklist",
+      "html": "<ol><li>Read your plan’s <strong>Annual Notice of Change</strong>.</li><li>Check your doctors and dentists are still in-network.</li><li>Enter your prescriptions in the <a href=\"https://www.medicare.gov/plan-compare/\" rel=\"nofollow noopener\" target=\"_blank\">Medicare Plan Finder</a>.</li><li>If dental matters to you, compare the dental benefit details, not just whether a plan “includes dental”. See <a href=\"/blog/does-medicare-cover-dental/\">does Medicare cover dental?</a></li><li>Get free, unbiased help from your State Health Insurance Assistance Program (SHIP).</li></ol><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Medicare open enrollment for 2027 coverage?",
+      "a": "October 15 to December 7, 2026. Changes take effect January 1, 2027."
+    },
+    {
+      "q": "What is the 2027 Part D out-of-pocket cap?",
+      "a": "$2,400, up from $2,100 in 2026."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Medicare.gov: Part D costs",
+      "url": "https://www.medicare.gov/health-drug-plans/part-d/basics/costs"
+    },
+    {
+      "title": "Medicare Plan Finder",
+      "url": "https://www.medicare.gov/plan-compare/"
+    },
+    {
+      "title": "CMS: 2027 Medicare Advantage and Part D final rule",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/contract-year-2027-medicare-advantage-part-d-final-rule"
+    }
+  ],
+  "related": [
+    "blog/medicare-telehealth-2027",
+    "blog/aca-open-enrollment-2027",
+    "blog/aca-subsidies-2027",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

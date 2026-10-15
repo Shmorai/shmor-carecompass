@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-22",
+  "slug": "blog/kids-dental-care-chip",
+  "type": "post",
+  "title": "Kids’ Dental Care: CHIP, Medicaid and First Visits",
+  "description": "When should your child first see a dentist? How Medicaid, CHIP and Marketplace plans cover children’s dental care, sealants, fluoride and orthodontics.",
+  "h1": "Kids’ dental care: first visits, CHIP and coverage",
+  "eyebrow": "Guide · Family dental",
+  "intro": "Healthy habits start early. Here is when your child should first see a dentist and how their care can be covered.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04",
+    "alt": "Blue and white toothbrushes in a clear glass jar",
+    "credit": "The Humble Co.",
+    "creditUrl": "https://unsplash.com/@thehumbleco"
+  },
+  "keywords": [
+    "kids dentist",
+    "pediatric dentist",
+    "chip dental",
+    "medicaid dental for kids",
+    "first dental visit",
+    "dental sealants"
+  ],
+  "cardText": "When should your child first see a dentist? How Medicaid, CHIP and Marketplace plans cover children’s dental care, sealants, fluoride and orthodontics.",
+  "sections": [
+    {
+      "h2": "First visit and check-ups",
+      "html": "<p>The American Academy of Pediatric Dentistry recommends a first dental visit when the first tooth appears and no later than the first birthday. Regular check-ups after that let the dentist spot decay early and apply preventive treatments such as fluoride varnish and sealants.</p>"
+    },
+    {
+      "h2": "How children’s dental care is covered",
+      "html": "<ul><li><strong>Medicaid and CHIP:</strong> must cover dental services for children. Find a dentist via <a href=\"https://www.insurekidsnow.gov/\" rel=\"nofollow noopener\" target=\"_blank\">InsureKidsNow.gov</a>.</li><li><strong>Marketplace plans:</strong> pediatric dental is an essential health benefit, sometimes provided through a separate dental plan.</li><li><strong>Employer dental plans:</strong> usually cover children, often including some orthodontic coverage; see <a href=\"/clear-aligners/\">braces and aligners</a>.</li></ul>"
+    },
+    {
+      "h2": "Fluoride in a changing landscape",
+      "html": "<p>Utah and Florida stopped community water fluoridation in 2025, and other places are debating it. If your water is not fluoridated, ask your dentist or pediatrician about other ways to protect your child’s teeth. See <a href=\"/blog/water-fluoridation-debate/\">the water fluoridation debate</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does CHIP cover braces?",
+      "a": "CHIP and Medicaid may cover orthodontics when it is medically necessary. Rules vary by state."
+    }
+  ],
+  "sources": [
+    {
+      "title": "InsureKidsNow.gov",
+      "url": "https://www.insurekidsnow.gov/"
+    },
+    {
+      "title": "HealthCare.gov: Dental coverage for children",
+      "url": "https://www.healthcare.gov/coverage/dental-coverage/"
+    },
+    {
+      "title": "CDC: Children’s oral health",
+      "url": "https://www.cdc.gov/oral-health/prevention/oral-health-tips-for-children.html"
+    }
+  ],
+  "related": [
+    "blog/does-medicare-cover-dental",
+    "blog/how-dental-insurance-works",
+    "blog/dental-savings-plans-vs-insurance",
+    "dentists"
+  ],
+  "relatedTitle": "Keep reading"
+}

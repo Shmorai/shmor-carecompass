@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-11",
+  "slug": "blog/free-consultation-questions",
+  "type": "post",
+  "title": "Free Consultation Checklist: 15 Questions to Ask",
+  "description": "Make the most of a free dental, orthodontic or cosmetic consultation: 15 questions about costs, insurance, risks, recovery and the provider’s experience.",
+  "h1": "Free consultation checklist: 15 questions to ask",
+  "eyebrow": "Checklist · Free consultations",
+  "intro": "A free consultation is your chance to interview the provider. Take this checklist with you, and do not be afraid to ask everything.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a",
+    "alt": "Calendar with red push pins marking appointments",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "keywords": [
+    "free consultation questions",
+    "questions to ask dentist",
+    "questions to ask plastic surgeon",
+    "consultation checklist",
+    "free consultation"
+  ],
+  "cardText": "Make the most of a free dental, orthodontic or cosmetic consultation: 15 questions about costs, insurance, risks, recovery and the provider’s experience.",
+  "sections": [
+    {
+      "h2": "About the provider",
+      "html": "<ol><li>What is your training and certification for this procedure?</li><li>How many of these procedures do you perform?</li><li>Can I see before-and-after photos of your own patients?</li><li>Where will treatment take place, and is the facility accredited?</li></ol>"
+    },
+    {
+      "h2": "About cost and insurance",
+      "html": "<ol start=\"5\"><li>Is this consultation completely free? Are X-rays or scans included?</li><li>What is the total cost, itemized in writing?</li><li>Are you in-network with my plan, and will you submit a pre-treatment estimate?</li><li>What payment plans or financing do you offer, and what are the terms?</li><li>What happens to the cost if I need a revision or redo?</li></ol><p>Check your coverage in <a href=\"/insurance/\">our insurance guide</a>.</p>"
+    },
+    {
+      "h2": "About the treatment",
+      "html": "<ol start=\"10\"><li>What are my options, including non-surgical or lower-cost alternatives?</li><li>What results can I realistically expect?</li><li>What are the risks and complications?</li><li>What is the recovery time, and when can I return to work?</li><li>How many follow-up visits are included?</li><li>Who do I contact if something goes wrong after hours?</li></ol><p>For cosmetic surgery, also read <a href=\"/blog/how-to-choose-a-plastic-surgeon/\">how to choose a plastic surgeon</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I bring anything to a consultation?",
+      "a": "Bring your insurance card, a list of medications and health conditions, any recent X-rays or records, and your list of questions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: Good Faith Estimate",
+      "url": "https://www.cms.gov/medical-bill-rights/help/guides/good-faith-estimate"
+    },
+    {
+      "title": "American Society of Plastic Surgeons: Consultation checklist",
+      "url": "https://www.plasticsurgery.org/"
+    }
+  ],
+  "related": [
+    "blog/how-to-choose-a-plastic-surgeon",
+    "blog/dental-tourism-risks",
+    "blog/med-spa-safety",
+    "free-consultations"
+  ],
+  "relatedTitle": "Keep reading"
+}

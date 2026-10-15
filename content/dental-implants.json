@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-15",
+  "slug": "dental-implants",
+  "title": "Dental Implants: Costs, Insurance & Free Consultations",
+  "description": "Dental implants explained: the procedure, what affects the cost, whether insurance or Medicare helps, alternatives and how to book a free consultation.",
+  "eyebrow": "Dental implants",
+  "h1": "Dental implants: what to know before you book",
+  "intro": "Implants are a long-lasting way to replace missing teeth. Here is how the process works, what drives the cost and how to make the most of a free implant consultation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1593022356769-11f762e25ed9",
+    "alt": "Dental implant model showing a titanium post in the jaw",
+    "credit": "Jonathan Borba",
+    "creditUrl": "https://unsplash.com/@jonathanborba"
+  },
+  "sections": [
+    {
+      "h2": "How dental implants work",
+      "html": "<p>An implant is a small post, usually titanium, placed in the jawbone to act as a tooth root. After it fuses with the bone (osseointegration), which commonly takes a few months, a crown, bridge or denture is attached. Some patients need a bone graft or sinus lift first.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<ul><li>Number of implants and the type of restoration (single crown, bridge, implant-supported denture or “All-on-4” style full arch).</li><li>Whether you need extractions, bone grafts or a sinus lift.</li><li>Imaging such as a CBCT 3D scan.</li><li>Materials and the provider’s experience and location.</li></ul><p>Always ask for an itemized written treatment plan. Prices are set by each practice, so compare more than one quote.</p>"
+    },
+    {
+      "h2": "Insurance, Medicare and paying for implants",
+      "html": "<p>Some dental plans now cover part of implant treatment as a major service, subject to the annual maximum. Original Medicare does not cover implants, though some Medicare Advantage plans include limited dental benefits (see <a href=\"/blog/does-medicare-cover-dental/\">does Medicare cover dental?</a>). HSA and FSA funds can usually be used. Many practices offer financing; read the terms carefully, especially deferred-interest offers.</p>"
+    },
+    {
+      "h2": "Your free implant consultation",
+      "html": "<p>Many implant practices offer a free first consultation. Ask whether the 3D scan is included, who will place the implant (general dentist, periodontist or oral surgeon), and what happens if an implant fails. Our <a href=\"/blog/free-consultation-questions/\">consultation checklist</a> has more questions.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are dental implants permanent?",
+      "a": "The implant post is designed to last many years with good care, but crowns attached to implants may eventually need replacing. Smoking, gum disease and some health conditions affect success."
+    },
+    {
+      "q": "What are the alternatives to implants?",
+      "a": "Bridges and removable partial or full dentures. Your dentist can explain the pros and cons of each for your situation."
+    }
+  ],
+  "related": [
+    "free-consultations",
+    "dentists",
+    "blog/dental-tourism-risks",
+    "blog/how-dental-insurance-works"
+  ],
+  "keywords": [
+    "dental implants",
+    "tooth implant",
+    "all on 4",
+    "implant dentures",
+    "dental implant cost",
+    "free dental implant consultation",
+    "bone graft",
+    "missing teeth"
+  ],
+  "cardText": "The procedure, what affects cost, insurance and free implant consultations."
+}

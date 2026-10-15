@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-06",
+  "slug": "blog/part-d-out-of-pocket-cap",
+  "type": "post",
+  "title": "Medicare Part D Out-of-Pocket Cap: $2,400 in 2027",
+  "description": "Medicare Part D caps what you pay for covered drugs each year: $2,100 in 2026 and $2,400 in 2027. How the cap works and how to spread costs monthly.",
+  "h1": "The Medicare Part D out-of-pocket cap, explained",
+  "eyebrow": "Explainer · Medicare",
+  "intro": "Since 2025, Medicare drug plans have had a hard annual limit on what you pay out of pocket for covered prescriptions. The cap is $2,100 in 2026 and rises to $2,400 in 2027.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926",
+    "alt": "A pile of assorted pills on a table",
+    "credit": "Roberto Sorin",
+    "creditUrl": "https://unsplash.com/@roberto_sorin"
+  },
+  "keywords": [
+    "part d out of pocket cap",
+    "medicare drug cap",
+    "2400 cap",
+    "medicare prescription payment plan",
+    "donut hole"
+  ],
+  "cardText": "Medicare Part D caps what you pay for covered drugs each year: $2,100 in 2026 and $2,400 in 2027.",
+  "sections": [
+    {
+      "h2": "How the cap works",
+      "html": "<p>Once your out-of-pocket spending on covered Part D drugs (deductible, copays and coinsurance) reaches the annual cap, you pay nothing more for covered drugs for the rest of the calendar year. The old “donut hole” coverage gap no longer exists.</p>"
+    },
+    {
+      "h2": "Spread costs with the Prescription Payment Plan",
+      "html": "<p>The Medicare Prescription Payment Plan lets you pay your out-of-pocket drug costs in monthly installments across the year instead of all at once at the pharmacy. It does not lower your total costs, but it can help with budgeting if you take expensive medicines. Ask your plan to opt in.</p>"
+    },
+    {
+      "h2": "What does not count",
+      "html": "<ul><li>Your monthly Part D premium.</li><li>Drugs not on your plan’s formulary (unless you get an exception).</li><li>Drugs bought outside your plan.</li></ul><p>Compare formularies during <a href=\"/blog/medicare-open-enrollment-2027/\">Medicare open enrollment</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the Part D cap include premiums?",
+      "a": "No. The cap covers your out-of-pocket costs for covered drugs, not your monthly premium."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Medicare.gov: Part D costs",
+      "url": "https://www.medicare.gov/health-drug-plans/part-d/basics/costs"
+    },
+    {
+      "title": "Medicare.gov: Medicare Prescription Payment Plan",
+      "url": "https://www.medicare.gov/prescription-payment-plan"
+    }
+  ],
+  "related": [
+    "blog/medicare-drug-price-negotiation-2027",
+    "blog/compounded-glp1-fda",
+    "blog/how-to-choose-a-plastic-surgeon",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

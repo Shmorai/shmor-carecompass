@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-15",
+  "slug": "botox-fillers",
+  "title": "Botox, Fillers & Med Spas: Safety and Free Assessments",
+  "description": "Botox and dermal fillers explained: who can inject in the US, how to choose a safe med spa, risks to know, and what a free aesthetic assessment includes.",
+  "eyebrow": "Injectables & med spas",
+  "h1": "Botox, fillers and med spas",
+  "intro": "Injectables are among the most popular aesthetic treatments in the US. Here is how to choose a qualified injector and a safe med spa.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713085085470-fba013d67e65",
+    "alt": "Woman receiving a facial treatment from a clinician",
+    "credit": "Look Studio",
+    "creditUrl": "https://unsplash.com/@lookphoto"
+  },
+  "sections": [
+    {
+      "h2": "Botox vs fillers",
+      "html": "<p><strong>Botulinum toxin</strong> products (Botox and others) relax specific muscles to soften expression lines, with results that typically wear off over a few months. <strong>Dermal fillers</strong> (often hyaluronic acid) add volume to areas such as the lips, cheeks and under-eyes. Both are prescription medical treatments, not beauty products.</p>"
+    },
+    {
+      "h2": "Choosing a safe med spa",
+      "html": "<ul><li>Rules on who may inject, and the level of physician supervision, vary by state.</li><li>Ask who the supervising physician is and who will perform your treatment.</li><li>Ask to see the product packaging: the FDA has warned about counterfeit and unapproved botulinum toxin.</li><li>Ask how complications such as vascular occlusion from fillers are handled.</li></ul><p>More in <a href=\"/blog/med-spa-safety/\">our med spa safety guide</a>.</p>"
+    },
+    {
+      "h2": "Free assessments and pricing",
+      "html": "<p>Many med spas offer a free assessment and treatment plan. Pricing can be per unit (toxins) or per syringe (fillers), so ask for a total estimate. Cosmetic injectables are not covered by insurance; Botox for medical uses such as chronic migraine may be.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Botox safe?",
+      "a": "FDA-approved botulinum toxin products given by trained, licensed professionals have a well-established safety record for approved uses. Risks increase with unlicensed injectors or counterfeit products."
+    }
+  ],
+  "related": [
+    "cosmetic-surgery",
+    "blog/med-spa-safety",
+    "free-consultations",
+    "blog/how-to-choose-a-plastic-surgeon"
+  ],
+  "keywords": [
+    "botox",
+    "fillers",
+    "dermal fillers",
+    "lip filler",
+    "med spa",
+    "medspa",
+    "injectables",
+    "free botox consultation",
+    "anti wrinkle injections"
+  ],
+  "cardText": "Botox vs fillers, choosing a safe med spa and free assessments."
+}

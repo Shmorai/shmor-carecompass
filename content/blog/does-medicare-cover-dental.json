@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-29",
+  "slug": "blog/does-medicare-cover-dental",
+  "type": "post",
+  "title": "Does Medicare Cover Dental? Options for 2027",
+  "description": "Original Medicare does not cover routine dental care. How Medicare Advantage, stand-alone dental plans and savings plans can fill the gap in 2027.",
+  "h1": "Does Medicare cover dental? Your options for 2027",
+  "eyebrow": "Explainer · Dental & Medicare",
+  "intro": "It is one of the most-searched Medicare questions. The short answer: Original Medicare does not cover most dental care. Here is how to get dental coverage anyway.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1468493858157-0da44aaf1d13",
+    "alt": "Person holding a set of dentures",
+    "credit": "Peter Kasprzyk",
+    "creditUrl": "https://unsplash.com/@petekasprzyk"
+  },
+  "keywords": [
+    "does medicare cover dental",
+    "medicare dental",
+    "medicare advantage dental",
+    "medicare dentures",
+    "medicare dental implants",
+    "dental for seniors"
+  ],
+  "cardText": "Original Medicare does not cover routine dental care.",
+  "sections": [
+    {
+      "h2": "What Original Medicare covers",
+      "html": "<p>Original Medicare (Parts A and B) generally does not cover routine dental services such as cleanings, fillings, extractions, dentures or implants. It may cover certain dental services that are closely linked to other covered medical treatment, for example a dental exam before an organ transplant or heart valve replacement, or dental services in a hospital in specific situations.</p>"
+    },
+    {
+      "h2": "Ways to get dental coverage",
+      "html": "<ul><li><strong>Medicare Advantage:</strong> many plans include dental benefits, but annual limits are often modest and some plans cover only preventive care. Compare details during <a href=\"/blog/medicare-open-enrollment-2027/\">open enrollment</a>.</li><li><strong>Stand-alone dental insurance:</strong> watch for waiting periods and annual maximums; see <a href=\"/blog/how-dental-insurance-works/\">how dental insurance works</a>.</li><li><strong>Dental savings plans:</strong> discounts with no waiting periods; see <a href=\"/blog/dental-savings-plans-vs-insurance/\">savings plans vs insurance</a>.</li><li><strong>Medicaid:</strong> if you qualify for both, your state Medicaid program may cover some adult dental care.</li><li><strong>Low-cost clinics and dental schools:</strong> see <a href=\"/blog/free-and-low-cost-dental-care/\">free and low-cost dental care</a>.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask a Medicare Advantage plan",
+      "html": "<ol><li>What is the annual dental maximum?</li><li>Are crowns, dentures and implants covered, and at what percentage?</li><li>Is my dentist in-network?</li><li>Are there waiting periods or frequency limits?</li></ol><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Medicare cover dentures?",
+      "a": "Original Medicare does not. Some Medicare Advantage plans offer partial coverage for dentures."
+    },
+    {
+      "q": "Does Medicare cover dental implants?",
+      "a": "Original Medicare does not cover implants. Some Advantage plans include limited coverage."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Medicare.gov: Dental services",
+      "url": "https://www.medicare.gov/coverage/dental-services"
+    },
+    {
+      "title": "Medicare Plan Finder",
+      "url": "https://www.medicare.gov/plan-compare/"
+    }
+  ],
+  "related": [
+    "blog/how-dental-insurance-works",
+    "blog/dental-savings-plans-vs-insurance",
+    "blog/free-and-low-cost-dental-care",
+    "dental-implants"
+  ],
+  "relatedTitle": "Keep reading"
+}

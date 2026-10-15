@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-07",
+  "slug": "blog/how-to-choose-a-plastic-surgeon",
+  "type": "post",
+  "title": "How to Choose a Plastic Surgeon: A Safety Checklist",
+  "description": "How to check a plastic surgeon’s board certification, license and hospital privileges, choose an accredited facility and spot red flags before cosmetic surgery.",
+  "h1": "How to choose a plastic surgeon: a safety checklist",
+  "eyebrow": "Guide · Cosmetic surgery",
+  "intro": "The surgeon you choose matters more than any discount. Use this checklist before you book cosmetic surgery.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1514416309827-bfb0cf433a2d",
+    "alt": "Surgical scissors near surgeons in an operating room",
+    "credit": "Piron Guillaume",
+    "creditUrl": "https://unsplash.com/@gpiron"
+  },
+  "keywords": [
+    "choose plastic surgeon",
+    "board certified plastic surgeon",
+    "plastic surgeon checklist",
+    "cosmetic surgery safety",
+    "american board of plastic surgery"
+  ],
+  "cardText": "How to check a plastic surgeon’s board certification, license and hospital privileges, choose an accredited facility and spot red flags before cosmetic surgery.",
+  "sections": [
+    {
+      "h2": "Check credentials",
+      "html": "<ul><li><strong>Board certification:</strong> look for certification by the American Board of Plastic Surgery, or another board recognized by the American Board of Medical Specialties that is relevant to the procedure. Verify at <a href=\"https://www.certificationmatters.org/\" rel=\"nofollow noopener\" target=\"_blank\">CertificationMatters.org</a>.</li><li><strong>State medical license:</strong> check with your state medical board, including any disciplinary actions.</li><li><strong>Hospital privileges:</strong> ask whether the surgeon is allowed to perform the same procedure at a local hospital.</li></ul>"
+    },
+    {
+      "h2": "Check the facility",
+      "html": "<p>Many cosmetic procedures take place in office-based surgical suites or ambulatory surgery centers. Ask whether the facility is accredited (for example by AAAASF, AAAHC or The Joint Commission), who provides anesthesia, and what happens in an emergency.</p>"
+    },
+    {
+      "h2": "Red flags",
+      "html": "<ul><li>Pressure to book on the day, or “today only” discounts.</li><li>No before-and-after photos of the surgeon’s own patients.</li><li>Unclear or unitemized pricing.</li><li>Multiple major procedures in one session without a clear safety explanation.</li><li>Reluctance to discuss risks or complications.</li></ul><p>Use a <a href=\"/free-consultations/\">free consultation</a> to ask questions, and read <a href=\"/blog/free-consultation-questions/\">our consultation checklist</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a plastic surgeon and a cosmetic surgeon?",
+      "a": "“Plastic surgeon” usually refers to a surgeon certified by the American Board of Plastic Surgery. “Cosmetic surgeon” can be used by doctors with different training, so always check the certifying board."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CertificationMatters (ABMS)",
+      "url": "https://www.certificationmatters.org/"
+    },
+    {
+      "title": "American Society of Plastic Surgeons",
+      "url": "https://www.plasticsurgery.org/"
+    },
+    {
+      "title": "FDA: Breast implants",
+      "url": "https://www.fda.gov/medical-devices/implants-and-prosthetics/breast-implants"
+    }
+  ],
+  "related": [
+    "blog/dental-tourism-risks",
+    "blog/med-spa-safety",
+    "blog/free-consultation-questions",
+    "cosmetic-surgery"
+  ],
+  "relatedTitle": "Keep reading"
+}

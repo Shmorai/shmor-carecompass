@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-20",
+  "slug": "blog/water-fluoridation-debate",
+  "type": "post",
+  "title": "Water Fluoridation in the US: Where Things Stand",
+  "description": "Utah and Florida ended community water fluoridation in 2025 and other states are debating it. What changed, what dentists say and how to protect your teeth.",
+  "h1": "The water fluoridation debate: where things stand",
+  "eyebrow": "News · Dental health",
+  "intro": "For decades, adding fluoride to community water was routine public health policy in the US. In 2025, Utah and Florida became the first states to stop it statewide. Here is what that means.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542013936693-884638332954",
+    "alt": "Hand turning on a kitchen faucet",
+    "credit": "Jacek Dylag",
+    "creditUrl": "https://unsplash.com/@dylu"
+  },
+  "keywords": [
+    "water fluoridation",
+    "fluoride ban",
+    "fluoride in water",
+    "utah fluoride",
+    "florida fluoride"
+  ],
+  "cardText": "Utah and Florida ended community water fluoridation in 2025 and other states are debating it.",
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>Utah’s law took effect in May 2025 and Florida’s in July 2025, prohibiting the addition of fluoride to public water systems. A number of other states and local communities have considered similar proposals since, and the federal government has said it is reviewing fluoride policy.</p>"
+    },
+    {
+      "h2": "What dental organizations say",
+      "html": "<p>The American Dental Association continues to support community water fluoridation at recommended levels as safe and effective in preventing tooth decay. Critics point to research on high fluoride exposure and argue people should choose for themselves. Expect the debate to continue.</p>"
+    },
+    {
+      "h2": "Protecting your family’s teeth",
+      "html": "<ul><li>Find out whether your water is fluoridated (your water utility publishes an annual water quality report).</li><li>Use fluoride toothpaste as recommended for your age.</li><li>Ask your dentist about fluoride varnish and sealants for children; see <a href=\"/blog/kids-dental-care-chip/\">kids’ dental care</a>.</li><li>Keep up regular <a href=\"/dentists/\">dental check-ups</a>.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which states have banned water fluoridation?",
+      "a": "As of October 2026, Utah and Florida have statewide laws ending community water fluoridation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC: Community water fluoridation",
+      "url": "https://www.cdc.gov/fluoridation/"
+    },
+    {
+      "title": "American Dental Association: Fluoridation",
+      "url": "https://www.ada.org/resources/community-initiatives/fluoride-in-water"
+    }
+  ],
+  "related": [
+    "blog/does-medicare-cover-dental",
+    "blog/how-dental-insurance-works",
+    "blog/dental-savings-plans-vs-insurance",
+    "dentists"
+  ],
+  "relatedTitle": "Keep reading"
+}

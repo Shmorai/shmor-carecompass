@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-12",
+  "slug": "blog/aca-subsidies-2027",
+  "type": "post",
+  "title": "ACA Subsidies in 2027: The 400% Income Cliff Returns",
+  "description": "The enhanced ACA premium tax credits expired at the end of 2025. What that means for 2027 Marketplace premiums, the 400% poverty-level cliff and your options.",
+  "h1": "ACA subsidies in 2027: what the end of enhanced tax credits means",
+  "eyebrow": "Explainer · Health insurance",
+  "intro": "From 2021 to 2025, enhanced premium tax credits made Marketplace coverage cheaper for millions of people. They expired on December 31, 2025, and as of October 2026 Congress has not enacted an extension. Here is what that means for your 2027 coverage.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1772588627342-5ec373e236d8",
+    "alt": "Hands holding tax forms next to a calculator and laptop",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "keywords": [
+    "aca subsidies",
+    "premium tax credit",
+    "enhanced subsidies expired",
+    "subsidy cliff",
+    "400 percent poverty level",
+    "obamacare subsidies 2027"
+  ],
+  "cardText": "The enhanced ACA premium tax credits expired at the end of 2025.",
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>Under the original Affordable Care Act formula, which applies again, premium tax credits are generally available to households with incomes between 100% and 400% of the federal poverty level. Above 400%, there is no subsidy at all: the so-called “subsidy cliff”. Households below that line also generally pay a larger share of their income than they did under the enhanced credits.</p>"
+    },
+    {
+      "h2": "Who is most affected",
+      "html": "<ul><li>Middle-income households just above 400% of the poverty level, especially older enrollees in high-cost areas.</li><li>Lower-income enrollees who previously paid very low or zero premiums.</li><li>Self-employed people and early retirees who buy their own coverage.</li></ul>"
+    },
+    {
+      "h2": "What you can do",
+      "html": "<ul><li>Estimate your income carefully: being just under a threshold can matter a lot.</li><li>Contributions to a traditional IRA or HSA can reduce the income figure used for subsidies.</li><li>Compare metal levels: a bronze plan paired with an HSA may suit healthy enrollees. See <a href=\"/blog/hsa-changes-2026-2027/\">HSA changes</a>.</li><li>Check if you qualify for Medicaid or CHIP in your state.</li><li>Use free local help (navigators) listed on HealthCare.gov.</li></ul><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Did Congress extend the enhanced ACA subsidies?",
+      "a": "As of October 2026, no extension has been enacted, so 2027 subsidies follow the original ACA formula."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HealthCare.gov: Lower costs with savings",
+      "url": "https://www.healthcare.gov/lower-costs/"
+    },
+    {
+      "title": "IRS: Premium tax credit",
+      "url": "https://www.irs.gov/affordable-care-act/individuals-and-families/the-premium-tax-credit-the-basics"
+    }
+  ],
+  "related": [
+    "blog/aca-open-enrollment-2027",
+    "blog/free-consultation-questions",
+    "blog/medicaid-work-requirements-2027",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading"
+}

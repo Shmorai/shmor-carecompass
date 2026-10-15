@@ -1,0 +1,143 @@
+{
+  "updated": "2026-10-15",
+  "slug": "insurance",
+  "nav": "Insurance",
+  "navOrder": 2,
+  "title": "Every Insurance Plan Explained: Dental & Health, US",
+  "description": "PPO, HMO, Medicare, Medicaid, CHIP, Marketplace and dental plans explained: what each covers and how to find an in-network dentist or doctor.",
+  "eyebrow": "All insurance welcome",
+  "h1": "Every insurance plan explained, and how to use yours",
+  "intro": "Whatever coverage you have, or none at all, this guide shows what each type of plan usually covers and how to make sure your provider is in-network before you book.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+    "alt": "Clinician using a laptop with a stethoscope on the desk",
+    "credit": "National Cancer Institute",
+    "creditUrl": "https://unsplash.com/@nci"
+  },
+  "blocks": [
+    {
+      "type": "links",
+      "position": "top",
+      "title": "Jump to your plan",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Employer PPO",
+          "href": "#employer-ppo-plans"
+        },
+        {
+          "icon": "shield",
+          "title": "HMO / EPO",
+          "href": "#hmo-and-epo-plans"
+        },
+        {
+          "icon": "shield",
+          "title": "Medicare & Medicare Advantage",
+          "href": "#medicare-and-medicare-advantage"
+        },
+        {
+          "icon": "shield",
+          "title": "Medicaid & CHIP",
+          "href": "#medicaid-and-chip"
+        },
+        {
+          "icon": "shield",
+          "title": "ACA Marketplace plans",
+          "href": "#aca-marketplace-plans"
+        },
+        {
+          "icon": "shield",
+          "title": "Dental PPO & DHMO",
+          "href": "#dental-insurance-ppo-and-dhmo"
+        },
+        {
+          "icon": "shield",
+          "title": "Dental savings plans",
+          "href": "#dental-savings-plans"
+        },
+        {
+          "icon": "shield",
+          "title": "No insurance / self-pay",
+          "href": "#no-insurance-self-pay"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Employer PPO plans",
+      "html": "<p>A Preferred Provider Organization (PPO) plan lets you see any provider, but you pay less in-network. You usually do not need a referral to see a specialist. Watch your <strong>deductible</strong> (what you pay before the plan pays) and <strong>coinsurance</strong> (your share after that). Out-of-network care costs more and may be “balance billed” in some situations.</p>"
+    },
+    {
+      "h2": "HMO and EPO plans",
+      "html": "<p>Health Maintenance Organizations (HMOs) generally only cover in-network care except in emergencies, and often require a referral from your primary care doctor to see a specialist. Exclusive Provider Organizations (EPOs) also limit you to the network but usually without referrals. Always check the network before booking.</p>"
+    },
+    {
+      "h2": "Medicare and Medicare Advantage",
+      "html": "<p>Original Medicare (Parts A and B) generally does <strong>not</strong> cover routine dental care such as cleanings, fillings, extractions or dentures. Many Medicare Advantage (Part C) plans include some dental, vision and hearing benefits, but coverage levels and annual limits vary widely. Read <a href=\"/blog/does-medicare-cover-dental/\">does Medicare cover dental?</a> and our <a href=\"/blog/medicare-open-enrollment-2027/\">2027 open enrollment guide</a>.</p>"
+    },
+    {
+      "h2": "Medicaid and CHIP",
+      "html": "<p>Medicaid and the Children’s Health Insurance Program (CHIP) must cover dental services for children. Adult dental coverage under Medicaid is optional for states, so it ranges from comprehensive to emergency-only. Find dentists who accept Medicaid through your state Medicaid agency or <a href=\"https://www.insurekidsnow.gov/\" rel=\"nofollow noopener\" target=\"_blank\">InsureKidsNow.gov</a>. Also see our update on <a href=\"/blog/medicaid-work-requirements-2027/\">Medicaid work requirements</a>.</p>"
+    },
+    {
+      "h2": "ACA Marketplace plans",
+      "html": "<p>Plans bought through <a href=\"https://www.healthcare.gov/\" rel=\"nofollow noopener\" target=\"_blank\">HealthCare.gov</a> or a state exchange must cover essential health benefits, including pediatric dental. Adult dental is optional and often sold as a separate stand-alone plan. See <a href=\"/blog/aca-open-enrollment-2027/\">ACA open enrollment for 2027</a> and <a href=\"/blog/aca-subsidies-2027/\">what changed with premium subsidies</a>.</p>"
+    },
+    {
+      "h2": "Dental insurance: PPO and DHMO",
+      "html": "<p>Dental plans work differently from health insurance. Many plans cover preventive care at or near 100%, basic care (fillings) at a lower percentage and major care (crowns, bridges) at a lower percentage still, with an <strong>annual maximum</strong> on what the plan will pay and possible waiting periods. DHMO plans use a set network and fixed copays. Read <a href=\"/blog/how-dental-insurance-works/\">how dental insurance works</a>.</p>"
+    },
+    {
+      "h2": "Dental savings plans",
+      "html": "<p>A dental savings (discount) plan is not insurance: you pay a membership fee and get reduced prices from participating dentists. There are usually no annual maximums or waiting periods. Compare them in <a href=\"/blog/dental-savings-plans-vs-insurance/\">dental savings plans vs insurance</a>.</p>"
+    },
+    {
+      "h2": "No insurance / self-pay",
+      "html": "<p>Uninsured? You still have options: community health centers that charge on a sliding scale, dental school clinics, in-house membership plans offered by many dental practices, and your right to a Good Faith Estimate before scheduled care. See <a href=\"/blog/free-and-low-cost-dental-care/\">free and low-cost dental care</a>.</p>"
+    },
+    {
+      "h2": "How to check a provider is in-network",
+      "html": "<ol><li>Find the exact plan name on your insurance card (the insurer name alone is not enough).</li><li>Use your insurer’s online provider directory, or call the member services number on your card.</li><li>Call the practice and confirm they are in-network for your specific plan.</li><li>For big treatments, ask the practice to submit a <strong>pre-treatment estimate</strong> (predetermination) to your insurer.</li></ol><p>Major carriers’ directories include <a href=\"https://www.deltadental.com/\" rel=\"nofollow noopener\" target=\"_blank\">Delta Dental</a>, <a href=\"https://www.metlife.com/\" rel=\"nofollow noopener\" target=\"_blank\">MetLife</a>, <a href=\"https://www.cigna.com/\" rel=\"nofollow noopener\" target=\"_blank\">Cigna</a>, <a href=\"https://www.aetna.com/\" rel=\"nofollow noopener\" target=\"_blank\">Aetna</a>, <a href=\"https://www.uhc.com/\" rel=\"nofollow noopener\" target=\"_blank\">UnitedHealthcare</a>, <a href=\"https://www.humana.com/\" rel=\"nofollow noopener\" target=\"_blank\">Humana</a>, <a href=\"https://www.guardianlife.com/\" rel=\"nofollow noopener\" target=\"_blank\">Guardian</a> and <a href=\"https://www.bcbs.com/\" rel=\"nofollow noopener\" target=\"_blank\">Blue Cross Blue Shield</a>.</p><p class=\"note\">CareCompass is independent and not affiliated with any insurer. Coverage depends on your specific plan.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does health insurance cover dental?",
+      "a": "Usually not for adults. Most adult dental care is covered by separate dental insurance. Children’s dental is an essential health benefit on ACA plans, and Medicaid and CHIP cover dental for kids."
+    },
+    {
+      "q": "Does insurance cover cosmetic surgery?",
+      "a": "Generally no, if it is purely cosmetic. Procedures that are medically necessary or reconstructive, such as breast reconstruction after mastectomy, may be covered."
+    },
+    {
+      "q": "Can I use an HSA or FSA for dental?",
+      "a": "Yes for qualifying dental care such as cleanings, fillings, braces and implants. Purely cosmetic treatments like teeth whitening usually are not eligible."
+    }
+  ],
+  "related": [
+    "blog/how-dental-insurance-works",
+    "blog/does-medicare-cover-dental",
+    "blog/dental-savings-plans-vs-insurance",
+    "blog/hsa-changes-2026-2027"
+  ],
+  "keywords": [
+    "dental insurance",
+    "health insurance",
+    "ppo",
+    "hmo",
+    "epo",
+    "medicare dental",
+    "medicaid dental",
+    "chip dental",
+    "in-network dentist",
+    "dentist that accepts my insurance",
+    "insurance accepted",
+    "all insurance accepted",
+    "delta dental",
+    "metlife dental",
+    "cigna dental",
+    "aetna dental"
+  ],
+  "cardText": "PPO, HMO, Medicare, Medicaid, CHIP, Marketplace and dental plans: what they cover."
+}

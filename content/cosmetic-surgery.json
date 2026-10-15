@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "cosmetic-surgery",
+  "nav": "Cosmetic surgery",
+  "navOrder": 4,
+  "title": "Cosmetic Surgery: Free Consultations & Safety Guide",
+  "description": "Thinking about cosmetic or plastic surgery? How to check a surgeon’s board certification, what free consultations cover, costs, financing and recovery.",
+  "eyebrow": "Cosmetic & plastic surgery",
+  "h1": "Cosmetic surgery: choose safely, consult for free",
+  "intro": "From rhinoplasty to tummy tucks, cosmetic surgery is a big decision. Start with the right surgeon, a thorough consultation and a clear picture of recovery and cost.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551190822-a9333d879b1f",
+    "alt": "Two surgeons in blue scrubs performing a procedure in an operating room",
+    "credit": "JAFAR AHMED",
+    "creditUrl": "https://unsplash.com/@darksidoo"
+  },
+  "highlights": [
+    {
+      "icon": "✔",
+      "title": "Board certification",
+      "text": "Look for certification by the American Board of Plastic Surgery or another ABMS board relevant to the procedure."
+    },
+    {
+      "icon": "🏥",
+      "title": "Accredited facility",
+      "text": "Ask where surgery happens and whether the facility is accredited."
+    },
+    {
+      "icon": "📝",
+      "title": "Written quote",
+      "text": "Get the surgeon, anesthesia and facility fees itemized in writing."
+    },
+    {
+      "icon": "🗓",
+      "title": "Recovery plan",
+      "text": "Understand downtime, follow-up visits and what happens if revision is needed."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Popular procedures",
+      "html": "<ul><li><strong>Face:</strong> rhinoplasty, eyelid surgery (blepharoplasty), facelift and neck lift.</li><li><strong>Body:</strong> liposuction, tummy tuck (abdominoplasty), body contouring after weight loss.</li><li><strong>Breast:</strong> augmentation, lift and reduction (reduction may be covered by insurance when medically necessary).</li><li><strong>Non-surgical:</strong> Botox, fillers and skin treatments; see <a href=\"/botox-fillers/\">Botox & fillers</a>.</li></ul>"
+    },
+    {
+      "h2": "Checking your surgeon",
+      "html": "<p>“Cosmetic surgeon” is not a protected specialty title in every state. Verify that the surgeon is certified by a board recognized by the American Board of Medical Specialties (you can check at <a href=\"https://www.certificationmatters.org/\" rel=\"nofollow noopener\" target=\"_blank\">CertificationMatters.org</a>), has hospital privileges for the procedure, and holds a valid state medical license. Read our <a href=\"/blog/how-to-choose-a-plastic-surgeon/\">guide to choosing a plastic surgeon</a>.</p>"
+    },
+    {
+      "h2": "Free consultations and costs",
+      "html": "<p>Some plastic surgeons offer free consultations; others charge a fee that is credited towards surgery. A quote should cover the surgeon’s fee, anesthesia, facility, garments, medications and follow-up. Cosmetic procedures are usually not covered by insurance. Be cautious with medical credit cards and deferred-interest financing.</p>"
+    },
+    {
+      "h2": "Surgery abroad",
+      "html": "<p>Lower prices abroad can be tempting, but complications, travel after surgery and limited follow-up are real risks. The CDC has guidance for anyone considering medical tourism. Read <a href=\"/blog/dental-tourism-risks/\">medical and dental tourism: the risks</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does insurance ever pay for plastic surgery?",
+      "a": "Reconstructive procedures can be covered, for example breast reconstruction after mastectomy, which federal law requires most group health plans that cover mastectomy to cover. Purely cosmetic surgery is usually not covered."
+    },
+    {
+      "q": "How long should I wait after a consultation before booking?",
+      "a": "There is no fixed rule, but take time to compare surgeons, review the written quote and avoid feeling pressured by limited-time discounts."
+    }
+  ],
+  "related": [
+    "botox-fillers",
+    "free-consultations",
+    "blog/how-to-choose-a-plastic-surgeon",
+    "blog/dental-tourism-risks"
+  ],
+  "keywords": [
+    "cosmetic surgery",
+    "plastic surgery",
+    "plastic surgeon",
+    "board certified plastic surgeon",
+    "rhinoplasty",
+    "nose job",
+    "breast augmentation",
+    "liposuction",
+    "tummy tuck",
+    "facelift",
+    "blepharoplasty",
+    "free plastic surgery consultation",
+    "mommy makeover"
+  ],
+  "cardText": "Board certification, free consultations, costs and recovery."
+}

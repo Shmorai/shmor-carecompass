@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-09-25",
+  "slug": "blog/hospital-price-transparency",
+  "type": "post",
+  "title": "Hospital Price Transparency: How to Find Real Prices",
+  "description": "Hospitals must publish their prices online. What the 2026 price transparency changes require, how to look up shoppable services and use prices to save money.",
+  "h1": "Hospital price transparency: how to find real prices",
+  "eyebrow": "How-to · Costs",
+  "intro": "Federal rules require hospitals to publish their prices online, and new requirements took effect in 2026. Here is how to use that information before planned care.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1629410484397-a4dcd74088a0",
+    "alt": "Bright white hospital hallway",
+    "credit": "Gonzalo Kenny",
+    "creditUrl": "https://unsplash.com/@gonzakenny"
+  },
+  "keywords": [
+    "hospital price transparency",
+    "hospital prices",
+    "price estimator",
+    "shoppable services",
+    "cash price hospital",
+    "medical cost comparison"
+  ],
+  "cardText": "Hospitals must publish their prices online.",
+  "sections": [
+    {
+      "h2": "What hospitals must publish",
+      "html": "<ul><li>A machine-readable file of standard charges, including negotiated rates with insurers and discounted cash prices.</li><li>A consumer-friendly list (or price estimator tool) for common “shoppable” services that can be scheduled in advance.</li></ul><p>Changes finalized for 2026 add requirements for hospitals to report information about the amounts actually paid and to attest to the accuracy of their data, with enforcement of the new requirements beginning in April 2026.</p>"
+    },
+    {
+      "h2": "How to use price information",
+      "html": "<ol><li>Search the hospital website for “price transparency” or “price estimator”.</li><li>Look up the service, and the rate for your specific insurance plan or the cash price.</li><li>Compare nearby hospitals, ambulatory surgery centers and imaging centers.</li><li>Call your insurer for an estimate of your share, based on your deductible.</li><li>If uninsured, request a <a href=\"/blog/no-surprises-act-guide/\">Good Faith Estimate</a>.</li></ol>"
+    },
+    {
+      "h2": "Insurers have to publish prices too",
+      "html": "<p>Under the Transparency in Coverage rules, most health plans must provide online cost-estimate tools for members. Log in to your insurer’s website before scheduling. See also <a href=\"/private-healthcare/\">cash-pay clinics</a>.</p><p class=\"note\"><strong>General information, not medical, legal or insurance advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I report a hospital that does not post prices?",
+      "a": "Yes. You can submit a complaint to CMS through its hospital price transparency website."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: Hospital price transparency",
+      "url": "https://www.cms.gov/priorities/key-initiatives/hospital-price-transparency"
+    },
+    {
+      "title": "CMS: Transparency in Coverage",
+      "url": "https://www.cms.gov/priorities/healthplan-price-transparency/overview"
+    }
+  ],
+  "related": [
+    "blog/no-surprises-act-guide",
+    "blog/medical-debt-and-credit-reports",
+    "blog/urgent-care-vs-er",
+    "private-healthcare"
+  ],
+  "relatedTitle": "Keep reading"
+}
