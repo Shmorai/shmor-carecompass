@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Dental insurance",
+  "title": "Dental Insurance Annual Maximums & Waiting Periods",
+  "description": "Dental insurance annual maximums and waiting periods explained: what the cap means, why benefits expire December 31 and questions to ask before treatment.",
+  "h1": "Dental insurance annual maximums and waiting periods explained",
+  "intro": "Dental plans work differently from medical insurance. They usually cap what they will pay each year and may delay payment for some treatments. Understanding both can change when you book care and how you budget.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99",
+    "alt": "Dental check-up with a mouth mirror and probe",
+    "credit": "Caroline LM",
+    "creditUrl": "https://unsplash.com/@carocaro1987"
+  },
+  "keywords": [
+    "dental insurance annual maximum",
+    "dental insurance waiting period",
+    "dental insurance cap",
+    "dental insurance explained",
+    "use dental benefits before end of year",
+    "dental insurance deductible",
+    "does dental insurance roll over",
+    "dental insurance limits"
+  ],
+  "cardText": "What the annual cap and waiting periods mean for your dental costs.",
+  "sections": [
+    {
+      "h2": "What is a dental insurance annual maximum?",
+      "html": "<p>The annual maximum is the most a plan will pay toward your care in a plan year. The American Dental Association (ADA) explains that once it is used up, the plan pays $0 for the rest of that year, even though the service is still a covered benefit. Common maximums are $1,000 or $1,500, and the ADA notes that plans with $2,000 or $3,000 are not unusual as treatment costs rise. They can apply per person or per family.</p>"
+    },
+    {
+      "h2": "How often do people actually hit the cap?",
+      "html": "<p>Less often than many expect. The ADA cites National Association of Dental Plans data that only 2.8% of people with PPO dental plans reached or exceeded their annual maximum, and its own 2024 analysis found 3.4% of dental patients reach a typical maximum. The risk is real for major work such as implants or crowns, though. The ADA also notes that patients near their limit face higher out-of-pocket costs, and delaying treatment until the maximum resets is not a real solution for affording care.</p>"
+    },
+    {
+      "h2": "Why benefits can expire on December 31",
+      "html": "<p>The ADA’s consumer site, MouthHealthy, points out that many dental plans have a December 31 deadline, and unused benefits generally do not roll over to the new year. Some plans use a different plan year, so check your documents. If a routine cleaning or planned treatment is due, scheduling it before your plan year ends can make use of benefits you are already paying for. Our <a href=\"/dentists/\">dentist guide</a> covers finding a practice.</p>"
+    },
+    {
+      "h2": "Waiting periods: covered but not payable yet",
+      "html": "<p>A waiting period means a service category is covered but not payable until the waiting period ends. Lengths vary by plan and by type of treatment, so confirm the exact terms in your plan documents or with the insurer rather than relying on general figures. The ADA lists other reasons a covered service may go unpaid, including exceeded frequency limits and an unmet deductible.</p>"
+    },
+    {
+      "h2": "Questions to ask before you commit to treatment",
+      "html": "<ul><li>What is my annual maximum and how much of it have I used this year?</li><li>Does my plan have a waiting period for this procedure?</li><li>What deductible and coinsurance apply?</li><li>When does my plan year reset?</li><li>Is the dentist in my network?</li></ul><p>Many practices offer an initial look before you pay. Our <a href=\"/free-consultations/\">free consultations guide</a> and <a href=\"/blog/free-consultation-questions/\">15 questions for a consultation</a> help you prepare, and <a href=\"/insurance/\">our insurance hub</a> explains the plan types.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does my dental annual maximum roll over?",
+      "a": "Generally not. MouthHealthy notes that many plans expire on December 31 and unused benefits do not roll over, though some plans use a different plan year. Check your plan documents."
+    },
+    {
+      "q": "What does it mean when a service is covered but not payable?",
+      "a": "The service is a plan benefit, but payment is not available right now, for example because the annual maximum is used up or a waiting period has not ended."
+    },
+    {
+      "q": "What is a typical dental annual maximum?",
+      "a": "The ADA says $1,000 or $1,500 is common, with some plans at $2,000 or $3,000. Your plan’s documents give the exact figure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ADA News: Dear ADA, Annual maximums",
+      "url": "https://adanews.ada.org/ada-news/2025/december/dear-ada-annual-maximums/"
+    },
+    {
+      "title": "ADA News: Dear ADA, Noncovered services",
+      "url": "https://adanews.ada.org/ada-news/2026/march/dear-ada-noncovered-services/"
+    },
+    {
+      "title": "MouthHealthy (ADA): Use dental insurance before the end of the year",
+      "url": "https://www.mouthhealthy.org/dental-care/using-dental-benefits"
+    }
+  ],
+  "related": [
+    "blog/free-consultation-questions",
+    "dentists",
+    "insurance"
+  ],
+  "updated": "2026-11-18",
+  "date": "2026-11-18",
+  "slug": "blog/dental-insurance-annual-maximums-waiting-periods",
+  "type": "post"
+}
