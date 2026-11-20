@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Dental costs",
+  "title": "Dental Costs: Using FSA and HSA Funds Before Year-End",
+  "description": "How to use FSA and HSA money for dental care before year-end: 2027 FSA limit, carryover rules, what counts as dental care and what cosmetic work doesn't.",
+  "h1": "Using FSA and HSA money for dental work before the year ends",
+  "intro": "Late in the year is when many people discover unspent flexible spending account (FSA) money or a dental plan that is nearly maxed out. Here is how the rules work, what the IRS says about dental costs, and what to check before booking.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99",
+    "alt": "Dental check-up with a mouth mirror and probe",
+    "credit": "Caroline LM",
+    "creditUrl": "https://unsplash.com/@carocaro1987"
+  },
+  "keywords": [
+    "fsa dental expenses",
+    "hsa dental expenses",
+    "use fsa before year end",
+    "fsa 2027 limit",
+    "fsa carryover 2027",
+    "dental care fsa eligible",
+    "dental benefits expire december",
+    "is teeth whitening fsa eligible"
+  ],
+  "cardText": "FSA, HSA and dental plan tips before the year ends.",
+  "sections": [
+    {
+      "h2": "FSA money often expires, so check your plan",
+      "html": "<p>A health FSA reimburses expenses incurred during the plan's coverage period. IRS Publication 969 says a plan may allow unused money to carry over, but only if the employer's plan permits it, and a plan can offer either a carryover or a grace period, not both. Rules differ by employer, so ask your benefits team for your plan's deadline and whether a claim run-out period applies.</p><p>For 2027, the IRS (Revenue Procedure 2026-35) sets the health FSA salary-reduction limit at $3,500, and a carryover, if your plan allows it, of up to $700. These are limits, not guarantees: your employer decides what the plan offers.</p>"
+    },
+    {
+      "h2": "What the IRS counts as dental care",
+      "html": "<p>IRS Topic 502 lists payments to dentists among deductible medical expenses and includes items such as false teeth, while saying most cosmetic surgery is not included. In practice that means fillings, cleanings, extractions, crowns and dentures can qualify, while purely cosmetic work may not. The IRS page doesn't mention teeth whitening by name, so ask your plan administrator before paying for it with FSA money. Our <a href=\"/teeth-whitening/\">teeth whitening guide</a> and <a href=\"/cosmetic-surgery/\">cosmetic surgery guide</a> explain how cosmetic procedures are usually priced and paid for.</p><p>Whether an FSA card accepts a given purchase also depends on your plan's own substantiation rules. Keep itemized receipts and the dentist's statement.</p>"
+    },
+    {
+      "h2": "HSAs are different: the money stays with you",
+      "html": "<p>Unlike most FSAs, health savings account money is yours and is not forfeited at year-end. HSA contribution limits for 2027 are $4,500 for self-only coverage and $9,000 for family coverage (IRS, Rev. Proc. 2026-24). You must be covered by a qualifying high-deductible health plan to contribute, and the rules for dental cover alongside an HSA are in IRS Publication 969.</p>"
+    },
+    {
+      "h2": "If your dental plan has an annual maximum",
+      "html": "<p>Many dental plans cap what they pay per calendar year, and unused benefits generally do not roll over. If you have planned treatment and you are under the maximum, scheduling before the plan year resets may let you use this year's benefit and next year's. Ask the dentist's office for a written treatment plan and a pre-treatment estimate first. Our guide to <a href=\"/blog/dental-insurance-annual-maximums-waiting-periods/\">annual maximums and waiting periods</a> explains the terms.</p>"
+    },
+    {
+      "h2": "A simple year-end checklist",
+      "html": "<ul><li>Find your FSA balance, deadline and whether your plan has a carryover or grace period.</li><li>Ask your dental plan what is left of this year's maximum.</li><li>Get a written treatment plan with codes and costs.</li><li>Check <a href=\"/free-consultations/\">free consultations</a> for second opinions on larger treatments.</li><li>Keep receipts and statements for tax and plan records.</li></ul><p>This is general information, not tax or medical advice. For tax questions speak to a qualified tax professional, and for treatment decisions speak to your dentist.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the FSA limit for 2027?",
+      "a": "The IRS sets the 2027 health FSA salary-reduction limit at $3,500, with a maximum carryover of $700 if the employer's plan allows carryover (Rev. Proc. 2026-35)."
+    },
+    {
+      "q": "Do I lose my HSA money at the end of the year?",
+      "a": "No. Unlike many FSAs, HSA funds belong to you and are not forfeited at year-end, though contribution limits apply."
+    },
+    {
+      "q": "Can I use an FSA for cosmetic dentistry?",
+      "a": "It depends. The IRS excludes most cosmetic surgery from medical expenses, so purely cosmetic work may not qualify. Ask your plan administrator before paying."
+    }
+  ],
+  "sources": [
+    {
+      "title": "IRS: Rev. Proc. 2026-35 (2027 inflation adjustments)",
+      "url": "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+    },
+    {
+      "title": "IRS: Publication 969, Health Savings Accounts and Other Tax-Favored Health Plans",
+      "url": "https://www.irs.gov/publications/p969"
+    },
+    {
+      "title": "IRS: Topic no. 502, Medical and dental expenses",
+      "url": "https://www.irs.gov/taxtopics/tc502"
+    }
+  ],
+  "related": [
+    "dentists",
+    "blog/dental-insurance-annual-maximums-waiting-periods",
+    "insurance"
+  ],
+  "updated": "2026-11-20",
+  "date": "2026-11-20",
+  "slug": "blog/use-fsa-hsa-dental-before-year-end",
+  "type": "post"
+}
