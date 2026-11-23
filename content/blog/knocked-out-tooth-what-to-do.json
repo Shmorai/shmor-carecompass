@@ -1,0 +1,79 @@
+{
+  "eyebrow": "Dental emergencies",
+  "title": "Knocked-Out Tooth: What to Do and Where to Go",
+  "description": "A knocked-out permanent tooth needs fast action. First-aid steps, how to store the tooth, baby teeth, and how to find an emergency dentist in the US.",
+  "h1": "Knocked-out tooth: what to do in the first hour",
+  "intro": "A tooth knocked out by a fall, sports injury or accident is one of the few dental problems where minutes count. This guide sets out the first-aid steps from MedlinePlus and the Mayo Clinic, and how to find an emergency dentist and plan for the cost.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787",
+    "alt": "Dental chair and equipment in a bright clinic",
+    "credit": "Atikah Akhtar",
+    "creditUrl": "https://unsplash.com/@atikahakhtar"
+  },
+  "keywords": [
+    "knocked out tooth what to do",
+    "knocked out tooth first aid",
+    "emergency dentist near me",
+    "tooth knocked out adult",
+    "avulsed tooth",
+    "knocked out baby tooth",
+    "dental emergency cost",
+    "how long to save a knocked out tooth"
+  ],
+  "cardText": "First-aid steps for a knocked-out tooth and how to find urgent dental care.",
+  "sections": [
+    {
+      "h2": "First aid for a knocked-out permanent tooth",
+      "html": "<p>MedlinePlus, the US National Library of Medicine's health information service, gives these steps:</p><ol><li>Find the tooth and hold it by the crown (the chewing surface), not the root.</li><li>Do not scrub or wipe the root, and do not clean it with alcohol or peroxide.</li><li>If you can, gently put the tooth back into its socket, level with the teeth next to it, and bite gently on gauze or a damp tea bag to hold it. Take care not to swallow it.</li><li>If you cannot put it back, keep it in a small container covered with cow's milk or saliva, or hold it between your lower lip and gum.</li><li>Keep it from drying out, hold a cold compress against the outside of the mouth and press gauze on any bleeding.</li></ol><p>Then see a dentist right away.</p>"
+    },
+    {
+      "h2": "How fast do you need to act?",
+      "html": "<p>MedlinePlus says the longer you wait, the less likely the dentist can save the tooth. Mayo Clinic also stresses acting quickly, and many dentists advise getting care within about an hour, so ring your dentist from the car rather than first searching for advice. If you cannot reach one or it is out of hours, go to a hospital emergency department. A replanted permanent tooth will most likely need root canal treatment afterwards, so ask the dentist about follow-up.</p>"
+    },
+    {
+      "h2": "Baby teeth are different",
+      "html": "<p>MedlinePlus is clear that knocked-out baby teeth are not replanted, so do not try to put one back. Still, get the child checked: ask the dentist about any injury to the gum or the permanent tooth underneath. Our guide to <a href=\"/blog/kids-dental-care-chip/\">kids' dental care, CHIP and Medicaid</a> explains how first visits are usually covered.</p>"
+    },
+    {
+      "h2": "When it is a hospital emergency",
+      "html": "<p>If you cannot close your upper and lower teeth together, MedlinePlus says your jaw may be broken and you need medical help right away, at a dentist or hospital. Call 911 for heavy bleeding that will not stop, a blow to the head with confusion, vomiting or loss of consciousness, or difficulty breathing. For deciding between settings, read <a href=\"/blog/urgent-care-vs-er/\">urgent care vs the ER</a>.</p>"
+    },
+    {
+      "h2": "Finding an emergency dentist and planning the cost",
+      "html": "<p>Many dental offices keep time for emergencies and say so on their voicemail or website, so ring first and say that an adult tooth has been knocked out. Our <a href=\"/emergency-dentist/\">emergency dentist guide</a> explains what to ask and what to expect. Costs depend on treatment, location and insurance, so we do not quote prices: ask for a written estimate with codes, and check whether your plan has waiting periods or annual maximums, which we cover in <a href=\"/blog/dental-insurance-annual-maximums-waiting-periods/\">our maximums guide</a>. If you have no insurance, see <a href=\"/blog/free-and-low-cost-dental-care/\">free and low-cost dental care</a>.</p><p>This is general information, not medical advice. For treatment decisions speak to a dentist or doctor.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a knocked-out adult tooth be put back?",
+      "a": "Often, if you act quickly. MedlinePlus says to try to place it back in the socket, level with the other teeth, or keep it in milk or saliva, and see a dentist right away."
+    },
+    {
+      "q": "Should I put a knocked-out baby tooth back in?",
+      "a": "No. MedlinePlus says knocked-out baby teeth are not replanted. Get the child checked by a dentist."
+    },
+    {
+      "q": "What should I store the tooth in?",
+      "a": "A small container covered with cow's milk or saliva, or between the lower lip and gum. Do not let it dry out, and do not scrub the root (MedlinePlus)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "MedlinePlus (NIH): Broken or knocked-out tooth",
+      "url": "https://medlineplus.gov/ency/article/000058.htm"
+    },
+    {
+      "title": "Mayo Clinic: Tooth loss, first aid",
+      "url": "https://www.mayoclinic.org/first-aid/first-aid-tooth-loss/basics/art-20056635"
+    }
+  ],
+  "related": [
+    "emergency-dentist",
+    "blog/urgent-care-vs-er",
+    "blog/free-and-low-cost-dental-care"
+  ],
+  "date": "2026-11-23",
+  "updated": "2026-11-23",
+  "slug": "blog/knocked-out-tooth-what-to-do",
+  "type": "post"
+}
