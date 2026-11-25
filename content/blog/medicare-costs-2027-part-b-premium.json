@@ -1,0 +1,90 @@
+{
+  "title": "Medicare Costs 2027: Part B Premium and Deductible",
+  "description": "Medicare 2027 costs announced: Part B premium $209.40, Part B deductible $292, Part A deductible $1,776, plus income-related surcharges and what to check.",
+  "eyebrow": "News · Medicare",
+  "h1": "Medicare costs in 2027: the Part B premium, deductibles and what to check",
+  "intro": "CMS announced the 2027 Medicare Part A and Part B premiums, deductibles and coinsurance on November 17, 2026. Here are the headline numbers, who pays more, and what to do with them before the Medicare open enrollment period ends on December 7.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+    "alt": "Clinician using a laptop with a stethoscope on the desk",
+    "credit": "National Cancer Institute",
+    "creditUrl": "https://unsplash.com/@nci"
+  },
+  "keywords": [
+    "medicare part b premium 2027",
+    "medicare 2027 costs",
+    "part b deductible 2027",
+    "medicare part a deductible 2027",
+    "irmaa 2027",
+    "medicare premium increase 2027",
+    "how much is medicare in 2027",
+    "medicare costs 2027",
+    "medicare 2027 premiums"
+  ],
+  "cardText": "The 2027 Medicare Part A and B premiums, deductibles and income-related amounts, as announced by CMS.",
+  "sections": [
+    {
+      "h2": "Medicare Part B premium and deductible for 2027",
+      "html": "<p>As of November 2026, CMS says the standard monthly <strong>Part B premium is $209.40 in 2027</strong>, up from $202.90 in 2026. The annual <strong>Part B deductible is $292</strong>, up from $283. CMS attributes the increases mainly to projected growth in health care spending.</p><p>After you meet the deductible, Original Medicare typically pays most of the cost of covered Part B services such as doctor visits and outpatient care, and you usually pay 20% coinsurance. Your own costs depend on the services you use and any other coverage you hold, so check your plan documents.</p>"
+    },
+    {
+      "h2": "Part A costs: hospital deductible and coinsurance",
+      "html": "<p>About 99% of people pay no Part A premium because of their work history. For 2027 CMS lists:</p><ul><li>Inpatient hospital deductible per benefit period: <strong>$1,776</strong> (2026: $1,736)</li><li>Hospital coinsurance, days 61–90: <strong>$444</strong> a day (2026: $434)</li><li>Lifetime reserve days: <strong>$888</strong> a day (2026: $868)</li><li>Skilled nursing facility coinsurance, days 21–100: <strong>$222</strong> a day (2026: $217)</li><li>Part A premium if you must buy it: <strong>$328</strong> a month (reduced rate) or <strong>$597</strong> (full rate)</li></ul>"
+    },
+    {
+      "h2": "Income-related surcharges (IRMAA)",
+      "html": "<p>Higher earners pay an extra amount on top of the standard Part B premium. CMS says this affects roughly 9% of people with Part B. For 2027, the surcharge starts when modified adjusted gross income is above <strong>$112,000 for an individual</strong> or <strong>$224,000 for a married couple filing jointly</strong>. The total monthly Part B premium for the top bracket is <strong>$711.80</strong>. The brackets in between are in CMS's fact sheet.</p><p>The Social Security Administration decides IRMAA using your tax return from two years earlier. If your income has dropped because of retirement or another life event, you can ask SSA to review the decision.</p>"
+    },
+    {
+      "h2": "What to do before open enrollment ends",
+      "html": "<p>Medicare open enrollment runs October 15 to December 7, and changes take effect January 1. Our <a href=\"/blog/medicare-open-enrollment-2027/\">Medicare open enrollment guide</a> explains the dates. A practical checklist:</p><ul><li>Look at your Annual Notice of Change and compare it with the 2027 Part B figures above.</li><li>Check what your Medicare Advantage or Part D plan charges. The Part D out-of-pocket cap for 2027 is covered in our <a href=\"/blog/part-d-out-of-pocket-cap/\">Part D cap guide</a>.</li><li>Check that your doctors, dentists and drugs are covered. Original Medicare does not cover routine dental care: see <a href=\"/blog/does-medicare-cover-dental/\">does Medicare cover dental?</a></li><li>Use Medicare.gov's Plan Finder, or free counselling from your State Health Insurance Assistance Program (SHIP).</li></ul>"
+    },
+    {
+      "h2": "Ways to manage the cost",
+      "html": "<p>Many people have Part B deducted from their Social Security payment. If you may struggle with the cost, Medicare.gov lists programs that can help, including Medicare Savings Programs through your state Medicaid office. Compare plans for what you pay in premiums and cost-sharing as well as benefits. For dental, vision and hearing, the <a href=\"/insurance/\">insurance guides</a> on CareCompass explain the main options, which we compare without ranking providers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Medicare Part B premium in 2027?",
+      "a": "CMS announced that the standard monthly Part B premium will be $209.40 in 2027, up $6.50 from $202.90 in 2026. Higher-income enrollees pay more."
+    },
+    {
+      "q": "What is the Part B deductible in 2027?",
+      "a": "$292, up from $283 in 2026, according to CMS."
+    },
+    {
+      "q": "Do I pay a Part A premium?",
+      "a": "Most people (about 99%) do not, because they or a spouse have enough work history. If you must buy Part A, the 2027 premium is $328 or $597 a month depending on work credits."
+    },
+    {
+      "q": "Can I change plans now to avoid higher costs?",
+      "a": "You can change your Medicare Advantage or Part D plan during open enrollment, October 15 to December 7. Part B premium amounts are set by CMS and are the same for everyone at your income level."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CMS: 2027 Medicare Parts A & B premiums and deductibles",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles"
+    },
+    {
+      "title": "Medicare.gov: What does Medicare cost?",
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/what-does-medicare-cost"
+    },
+    {
+      "title": "Medicare.gov: Costs",
+      "url": "https://www.medicare.gov/basics/costs/medicare-costs"
+    }
+  ],
+  "related": [
+    "blog/medicare-open-enrollment-2027",
+    "blog/part-d-out-of-pocket-cap",
+    "blog/does-medicare-cover-dental",
+    "insurance"
+  ],
+  "relatedTitle": "Keep reading",
+  "date": "2026-11-25",
+  "updated": "2026-11-25",
+  "slug": "blog/medicare-costs-2027-part-b-premium",
+  "type": "post"
+}
