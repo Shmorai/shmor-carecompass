@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-27",
+  "updated": "2026-11-27",
+  "slug": "blog/in-network-vs-out-of-network-dentist",
+  "type": "post",
+  "title": "In-Network vs Out-of-Network Dentist: What You Pay",
+  "description": "In-network vs out-of-network dentist explained: how PPO, HMO and EPO plans pay, what balance billing means and how to check your costs before treatment.",
+  "eyebrow": "Dental insurance",
+  "h1": "In-network vs out-of-network dentist: what you will actually pay",
+  "intro": "You found a dentist you like, but are they \"in network\" for your plan? The answer can change your bill by hundreds of dollars. Here is how network status works, what different plan types do and how to check before you book.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1737215398603-2ef701df8036",
+    "alt": "Woman having her teeth checked by a dentist",
+    "credit": "Mariia Belinska",
+    "creditUrl": "https://unsplash.com/@mashrooms21"
+  },
+  "sections": [
+    {
+      "h2": "What \"in network\" means",
+      "html": "<p>An in-network (participating) dentist has signed an agreement with your dental plan. Under it, the dentist agrees to follow the plan's processing policies and generally accepts the plan's <strong>maximum allowable fee</strong> for covered services. The ADA says that what a participating dentist may charge you depends on that agreement, so the plan or dentist can confirm the exact amount. In practice, for covered work you pay your deductible and your coinsurance share of the allowed fee, and not the difference to the dentist's regular price.</p>"
+    },
+    {
+      "h2": "What \"out of network\" means for your bill",
+      "html": "<p>A non-participating dentist has no contract with your plan and, according to the ADA, \"may bill up to your full fee.\" The plan pays its share based on its own allowance, and <strong>you owe the rest</strong>: your deductible, coinsurance and any balance between the plan's allowance and the dentist's full fee. The ADA's guide to the Explanation of Benefits (EOB) shows that for covered out-of-network work, plan payment plus your payment adds up to the dentist's full fee. That balance is sometimes called balance billing.</p><p>For work your plan does not cover, you generally pay the dentist's full fee out of network. In-network, some states have non-covered services laws that let the dentist charge their full fee, while in other states you pay the plan's allowed amount.</p>"
+    },
+    {
+      "h2": "How plan types treat network status",
+      "html": "<ul><li><strong>PPO (preferred provider organization):</strong> you can go out of network and still receive a benefit, though it may cost more out of pocket (ADA).</li><li><strong>EPO (exclusive provider organization):</strong> benefits are paid only if you use a network dentist. The ADA states there is no benefit payable to an out-of-network dentist under an EPO, so you pay the full cost.</li><li><strong>HMO and discount plans:</strong> these usually work through a closed panel or fixed fee list, so check the plan documents on out-of-network rules. See our <a href=\"/blog/dental-savings-plans-vs-insurance/\">dental savings plans vs insurance</a> guide.</li></ul><p>Medicare, Medicaid and children's coverage have their own rules: see <a href=\"/blog/does-medicare-cover-dental/\">does Medicare cover dental</a> and <a href=\"/blog/kids-dental-care-chip/\">kids' dental care and CHIP</a>.</p>"
+    },
+    {
+      "h2": "How to check before you book",
+      "html": "<ol><li><strong>Ask the dentist's office</strong> which plan name and network (not just \"we take Delta/Cigna\") they participate in. One insurer can have several networks.</li><li><strong>Check the plan's own provider directory</strong> or call member services, and write down the date, name and reference number.</li><li><strong>Ask for a written treatment estimate</strong> and, for bigger work, ask whether the dentist can submit it to your plan in advance. Your carrier or your employer's HR team can explain whether pre-treatment estimates are available. The ADA notes plan-specific details like these come from your carrier.</li><li><strong>Check your annual maximum and waiting periods</strong>: see our <a href=\"/blog/dental-insurance-annual-maximums-waiting-periods/\">maximums and waiting periods guide</a>.</li><li><strong>Read your EOB</strong> after treatment: it shows the plan allowance, what the plan paid and your responsibility. If you disagree with a decision the ADA recommends appealing in writing.</li></ol>"
+    },
+    {
+      "h2": "Is in-network always cheaper?",
+      "html": "<p>Usually it is, for the same treatment, because the allowed fee is capped. But the cheapest option overall depends on the dentist's fees, your plan's coverage percentage and whether you have used your yearly maximum. If your preferred dentist is out of network, ask for a written estimate and compare the total with a network dentist, or ask whether they offer a cash or membership price. If you have no insurance, see <a href=\"/blog/free-and-low-cost-dental-care/\">free and low-cost dental care</a> and our <a href=\"/free-consultations/\">free consultations guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an out-of-network dentist charge more than my insurance allows?",
+      "a": "Yes. The ADA says a non-participating dentist may bill up to their full fee, so you can owe the difference between the plan's payment and that fee, on top of your deductible and coinsurance."
+    },
+    {
+      "q": "Will my insurance pay if my dentist is out of network?",
+      "a": "It depends on the plan. A PPO usually still pays a benefit, though your cost may be higher. An EPO pays nothing for out-of-network care, according to the ADA."
+    },
+    {
+      "q": "How do I know if a dentist is in my network?",
+      "a": "Ask the dental office which network they are in and verify it with your insurer's provider directory or member services. Directories can be out of date, so confirm before treatment."
+    },
+    {
+      "q": "What is an Explanation of Benefits (EOB)?",
+      "a": "A statement from your plan showing how a claim was processed: the allowed amount, what the plan paid and what you owe the dental office."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ADA: Dental insurance frequently asked questions",
+      "url": "https://www.ada.org/en/resources/practice/dental-insurance/dental-insurance-resources/dental-insurance-frequently-asked-questions"
+    },
+    {
+      "title": "ADA: Explanation of Benefits statement",
+      "url": "https://www.ada.org/resources/practice/dental-insurance/explanation-of-benefits-statement"
+    },
+    {
+      "title": "ADA: Types of dental plans",
+      "url": "https://www.ada.org/resources/practice/dental-insurance/dental-plan-overview"
+    }
+  ],
+  "related": [
+    "blog/how-dental-insurance-works",
+    "blog/dental-insurance-annual-maximums-waiting-periods",
+    "insurance"
+  ],
+  "keywords": [
+    "in network vs out of network dentist",
+    "out of network dentist cost",
+    "does dental insurance cover out of network",
+    "dental balance billing",
+    "ppo vs epo dental",
+    "find dentist that accepts my insurance",
+    "dental eob explained",
+    "dentist accepts insurance"
+  ],
+  "cardText": "How network status changes your dental bill, and how to check before you book."
+}
